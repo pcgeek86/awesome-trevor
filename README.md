@@ -7,6 +7,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Vagrant](https://www.vagrantup.com/) - a cross-platform CLI tool that enables you to automate deployment of virtual machines
 * Terraform
 * [Tflint](https://github.com/terraform-linters/tflint)
+* [Pulumi](https://github.com/pulumi/pulumi) - open source, code-based infrastructure provisioning
 
 ### REST APIs
 
@@ -18,6 +19,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Insomnia](https://github.com/Kong/insomnia) - open source, graphical REST API client, similar to 
 * [Mockoon](https://mockoon.com/) - graphical tool to mock REST APIs
 * [Postman](https://postman.com)
+* [Slate](https://github.com/slatedocs/slate) - REST API documentation generator
 
 ### SaaS Tools
 
@@ -30,9 +32,9 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [NocoDB](https://www.nocodb.com/) - an open source Airtable alternative
 * [Baserow](https://baserow.io/) - an open source Airtable alternative
+* 
 
 ### Web Development
 
 * [Less](https://lesscss.org/) - language extension for CSS
 * [SASS](https://lesscss.org/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
-
