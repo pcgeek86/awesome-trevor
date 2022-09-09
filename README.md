@@ -42,6 +42,17 @@ This repository contains links to things that Trevor thinks are awesome.
 * [InfluxDB](https://github.com/influxdata/influxdb) - open source, time-series database engine with built-in charting / dashboards via WebUI, developed by InfluxData
 * [Neo4j](https://neo4j.com/)
 
+### Documentation
+
+* [Docusaurus](https://docusaurus.io/)
+* [Docsify](https://docsify.js.org/)
+* [Outline](https://github.com/outline/outline)
+* [Retype](https://retype.com/)
+* [mdBook](https://github.com/rust-lang/mdBook)
+* [PicoCMS](https://picocms.org/)
+* [Bookstack](https://www.bookstackapp.com/)
+* [Nextbook](https://next-book.vercel.app/)
+
 ### Web Development
 
 * [Less](https://lesscss.org/) - language extension for CSS
