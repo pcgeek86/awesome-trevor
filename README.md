@@ -45,6 +45,7 @@ This repository contains links to things that Trevor thinks are awesome.
 ### Documentation
 
 * [Docusaurus](https://docusaurus.io/)
+* [Dokuwiki](https://github.com/splitbrain/dokuwiki)
 * [Docsify](https://docsify.js.org/)
 * [Outline](https://github.com/outline/outline)
 * [Retype](https://retype.com/)
