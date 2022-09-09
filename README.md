@@ -52,6 +52,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [PicoCMS](https://picocms.org/)
 * [Bookstack](https://www.bookstackapp.com/)
 * [Nextbook](https://next-book.vercel.app/)
+* [Wiki.js](https://js.wiki/)
 
 ### Web Development
 
