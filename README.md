@@ -46,6 +46,9 @@ This repository contains links to things that Trevor thinks are awesome.
 * [RethinkDB](https://rethinkdb.com/)
 * [Cassandra](https://cassandra.apache.org/_/index.html)
 * [Redis](https://redis.io)
+* [CouchDB](https://couchdb.apache.org/)
+* [CockroachDB](https://github.com/cockroachdb/cockroach)
+* [Clickhouse](https://clickhouse.com/)
 
 ### Documentation
 
