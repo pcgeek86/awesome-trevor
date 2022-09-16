@@ -92,6 +92,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Fission](https://fission.io/)
 * [KNative](https://knative.dev)
 * [OpenFaaS](https://github.com/openfaas/faas)
+* [FaaS-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
 * [Tekton](https://tekton.dev)
 * [ArgoCD](https://github.com/argoproj/argo-cd)
 * [Argo Workflows](https://github.com/argoproj/argo-workflows)
