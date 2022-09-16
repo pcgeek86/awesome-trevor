@@ -43,6 +43,9 @@ This repository contains links to things that Trevor thinks are awesome.
 * [TimescaleDB](https://www.timescale.com/)
 * [InfluxDB](https://github.com/influxdata/influxdb) - open source, time-series database engine with built-in charting / dashboards via WebUI, developed by InfluxData
 * [Neo4j](https://neo4j.com/)
+* [RethinkDB](https://rethinkdb.com/)
+* [Cassandra](https://cassandra.apache.org/_/index.html)
+* [Redis](https://redis.io)
 
 ### Documentation
 
