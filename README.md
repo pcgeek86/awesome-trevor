@@ -85,3 +85,22 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [Less](https://lesscss.org/) - language extension for CSS
 * [SASS](https://lesscss.org/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
+
+### Kubernetes
+
+* [Meshery](https://github.com/meshery/meshery)
+* [Fission](https://fission.io/)
+* [KNative](https://knative.dev)
+* [OpenFaaS](https://github.com/openfaas/faas)
+* [Tekton](https://tekton.dev)
+* [ArgoCD](https://github.com/argoproj/argo-cd)
+* [Argo Workflows](https://github.com/argoproj/argo-workflows)
+* [Democratic CSI](https://github.com/democratic-csi/democratic-csi) - Container Storage Interface (CSI) with variety of support (NFS, iSCSI, SMB, etc.)
+
+### CI/CD DevOps Tools
+
+* [Concourse](https://concourse-ci.org/)
+
+### Security Tools
+
+* [CrowdSec](https://github.com/crowdsecurity/crowdsec) - open source IPS
