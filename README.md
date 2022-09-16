@@ -98,6 +98,11 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Democratic CSI](https://github.com/democratic-csi/democratic-csi) - Container Storage Interface (CSI) with variety of support (NFS, iSCSI, SMB, etc.)
 * [k8s CSI S3](https://github.com/yandex-cloud/k8s-csi-s3) - Container Storage Interface (CSI) for Amazon S3 object storage
 
+### Kubernetes: Ingress
+
+* [Emissary](https://github.com/emissary-ingress/emissary)
+* [Kong]()
+
 ### CI/CD DevOps Tools
 
 * [Concourse](https://concourse-ci.org/)
@@ -106,3 +111,4 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [CrowdSec](https://github.com/crowdsecurity/crowdsec) - open source IPS
 * [Falco](https://falco.org/) - rules engine for detecting security threats
+* [Kubescape](https://github.com/kubescape/kubescape) - open-source k8s: risk analysis, security compliance, RBAC visualizer, image vulnerabilities
