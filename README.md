@@ -96,6 +96,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [ArgoCD](https://github.com/argoproj/argo-cd)
 * [Argo Workflows](https://github.com/argoproj/argo-workflows)
 * [Democratic CSI](https://github.com/democratic-csi/democratic-csi) - Container Storage Interface (CSI) with variety of support (NFS, iSCSI, SMB, etc.)
+* [k8s CSI S3](https://github.com/yandex-cloud/k8s-csi-s3) - Container Storage Interface (CSI) for Amazon S3 object storage
 
 ### CI/CD DevOps Tools
 
