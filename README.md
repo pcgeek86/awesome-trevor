@@ -113,3 +113,11 @@ This repository contains links to things that Trevor thinks are awesome.
 * [CrowdSec](https://github.com/crowdsecurity/crowdsec) - open source IPS
 * [Falco](https://falco.org/) - rules engine for detecting security threats
 * [Kubescape](https://github.com/kubescape/kubescape) - open-source k8s: risk analysis, security compliance, RBAC visualizer, image vulnerabilities
+
+
+## Programming
+
+### Golang
+
+* [Buffalo](https://gobuffalo.io/) - A Go web development eco-system, designed to make your life easier.
+* [Fyne](https://github.com/fyne-io/fyne) - cross-platform GUI for Golang
