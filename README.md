@@ -2,6 +2,13 @@
 
 This repository contains links to things that Trevor thinks are awesome.
 
+### Cloud Vendors
+
+* Digital Ocean
+* Linode
+* Vultr
+* [MaaS](https://maas.io/) - Metal as a Service from Canonical / Ubuntu
+
 ### Infrastructure Tools
 
 * [Vagrant](https://www.vagrantup.com/) - a cross-platform CLI tool that enables you to automate deployment of virtual machines
@@ -13,7 +20,7 @@ This repository contains links to things that Trevor thinks are awesome.
 ### REST APIs
 
 * [OpenWeatherMap](https://openweathermap.org/api) - get weather data for your town
-* [Airtable]()
+* [Airtable](https://airtable.com)
 
 ### REST API Tools
 
