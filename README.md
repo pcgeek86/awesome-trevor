@@ -105,3 +105,4 @@ This repository contains links to things that Trevor thinks are awesome.
 ### Security Tools
 
 * [CrowdSec](https://github.com/crowdsecurity/crowdsec) - open source IPS
+* [Falco](https://falco.org/) - rules engine for detecting security threats
