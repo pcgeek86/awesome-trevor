@@ -40,6 +40,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [PostgreSQL](https://www.postgresql.org/)
 * [MongoDB](https://www.mongodb.com/)
 * [TiDB](https://pingcap.com/tidb/) - open source, distributed, time-series database developed by PingCAP
+* [TimescaleDB](https://www.timescale.com/)
 * [InfluxDB](https://github.com/influxdata/influxdb) - open source, time-series database engine with built-in charting / dashboards via WebUI, developed by InfluxData
 * [Neo4j](https://neo4j.com/)
 
