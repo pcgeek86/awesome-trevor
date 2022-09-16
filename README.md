@@ -34,6 +34,12 @@ This repository contains links to things that Trevor thinks are awesome.
 * [NocoDB](https://www.nocodb.com/) - an open source Airtable alternative
 * [Baserow](https://baserow.io/) - an open source Airtable alternative
 
+### Video Streaming
+
+* [Open Streaming Server](https://gitlab.com/osp-group/flask-nginx-rtmp-manager)
+* [Open Broadcaster Studio (OBS)](https://obsproject.com/)
+* [FFmpeg](https://github.com/FFmpeg/FFmpeg)
+
 ### Databases
 
 * [MySQL](https://mysql.com)
