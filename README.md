@@ -17,6 +17,11 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Pulumi](https://github.com/pulumi/pulumi) - open source, code-based infrastructure provisioning
 * [Duplicati](https://www.duplicati.com/) - open source backup software
 
+### Microsoft .NET (dotnet)
+
+* [NAudio](https://www.nuget.org/packages/NAudio) - library for working with audio from .NET
+* [LVCharts](https://lvcharts.net/) - charting library for .NET
+
 ### REST APIs
 
 * [OpenWeatherMap](https://openweathermap.org/api) - get weather data for your town
