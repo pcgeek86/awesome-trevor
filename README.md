@@ -41,6 +41,10 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Postman](https://postman.com)
 * [Slate](https://github.com/slatedocs/slate) - REST API documentation generator
 
+### Machine Learning
+
+* [Yolov5](https://github.com/ultralytics/yolov5)
+
 ### SaaS Tools
 
 * Asana
@@ -120,7 +124,6 @@ This repository contains links to things that Trevor thinks are awesome.
 ### Kubernetes: Linting
 
 * [Kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
-* 
 
 ### Kubernetes: Ingress
 
@@ -138,6 +141,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Kubescape](https://github.com/kubescape/kubescape) - open-source k8s: risk analysis, security compliance, RBAC visualizer, image vulnerabilities
 * [Open Policy Agent (OPA) Gatekeeper](https://github.com/open-policy-agent/gatekeeper)
 * [Open Policy Administration Layer (OPAL)](https://www.opal.ac/)
+* [Kube Hunter](https://github.com/aquasecurity/kube-hunter) - open source tool from Aqua Security: Hunt for security weaknesses in Kubernetes clusters
 
 ## Programming
 
