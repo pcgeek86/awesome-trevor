@@ -117,10 +117,6 @@ This repository contains links to things that Trevor thinks are awesome.
 ### Kubernetes
 
 * [Meshery](https://github.com/meshery/meshery)
-* [Fission](https://fission.io/)
-* [KNative](https://knative.dev)
-* [OpenFaaS](https://github.com/openfaas/faas)
-* [FaaS-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
 * [Tekton](https://tekton.dev)
 * [ArgoCD](https://github.com/argoproj/argo-cd)
 * [Argo Workflows](https://github.com/argoproj/argo-workflows)
@@ -130,6 +126,14 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Containerized Data Importer](https://github.com/kubevirt/containerized-data-importer/) - Data Import Service for kubernetes, designed with kubevirt in mind. Loads data into a PersistentVolume
 * [Submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
 * [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a production-ready Kubernetes cluster (AWS, GCP, Azure, OpenStack, vSphere), built on top of Ansible
+
+### Kubernetes: Serverless
+
+* [Fission](https://fission.io/)
+* [KNative](https://knative.dev)
+* [Nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
+* [OpenFaaS](https://github.com/openfaas/faas)
+* [FaaS-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
 
 ### Kubernetes: Distributions
 
@@ -147,6 +151,11 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [Emissary](https://github.com/emissary-ingress/emissary)
 * [Kong]()
+
+### Kubernetes: Testing
+
+* [krkn](https://github.com/redhat-chaos/krkn) - Chaos and resiliency testing tool for Kubernetes and OpenShift
+* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
 
 ### CI/CD DevOps Tools
 
