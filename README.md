@@ -103,6 +103,14 @@ This repository contains links to things that Trevor thinks are awesome.
 * [k8s CSI S3](https://github.com/yandex-cloud/k8s-csi-s3) - Container Storage Interface (CSI) for Amazon S3 object storage
 * [Coroot](https://github.com/coroot/coroot) - monitoring and troubleshooting tool for microservice architectures 💲
 
+### Kubernetes: Distributions
+
+* [OKD](https://www.okd.io/) - Kubernetes distribution that powers OpenShift
+* [k3s](https://k3s.io) - easy to deploy, standalone binary distribution of Kubernetes, well-supported by Rancher Labs
+* [Minikube](https://github.com/kubernetes/minikube) - CNCF cross-platform tool to deploy Kubernetes distribution on MacOS, Windows, Linux
+* [Microk8s](https://microk8s.io/) - Kubernetes distribution from Canonical, makers of Ubuntu Linux
+* [KIND](https://kind.sigs.k8s.io/) - deploy a Kubernetes cluster in Docker containers
+
 ### Kubernetes: Linting
 
 * [Kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
