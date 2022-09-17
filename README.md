@@ -126,6 +126,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Containerized Data Importer](https://github.com/kubevirt/containerized-data-importer/) - Data Import Service for kubernetes, designed with kubevirt in mind. Loads data into a PersistentVolume
 * [Submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
 * [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a production-ready Kubernetes cluster (AWS, GCP, Azure, OpenStack, vSphere), built on top of Ansible
+* [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation
 
 ### Kubernetes: Serverless
 
