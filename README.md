@@ -24,7 +24,13 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Pulumi](https://github.com/pulumi/pulumi) - open source, code-based infrastructure provisioning
 * [Duplicati](https://www.duplicati.com/) - open source backup software
 * [Apache Guacamole](https://guacamole.apache.org/) - open source web-based desktop / remote control client
+
+### Observability
+
 * [Telegraf](https://github.com/influxdata/telegraf) - open source, plugin-based metrics gathering, processing, and forwarding agent (CPU, Memory, Disk, SNMP, ICMP, HTTP, exec, etc.)
+* [Vector](https://vector.dev/) - open source log management tool from DataDog, similar to Fluentd
+* [ElasticSearch](https://github.com/elastic/elasticsearch) - logging infrastructure
+* [Greylog](https://github.com/Graylog2/graylog2-server) - log management solution
 
 ### Microsoft .NET (dotnet)
 
