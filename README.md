@@ -53,6 +53,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Open Streaming Server](https://gitlab.com/osp-group/flask-nginx-rtmp-manager)
 * [Open Broadcaster Studio (OBS)](https://obsproject.com/)
 * [FFmpeg](https://github.com/FFmpeg/FFmpeg)
+* [Kurento Media Server](http://www.kurento.org/) - open source WebRTC media streaming server
 
 ### Databases
 
