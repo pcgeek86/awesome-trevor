@@ -44,6 +44,14 @@ This repository contains links to things that Trevor thinks are awesome.
 * [NAudio](https://www.nuget.org/packages/NAudio) - library for working with audio from .NET
 * [LVCharts](https://lvcharts.net/) - charting library for .NET
 
+### Messaging
+
+* [NATS](https://nats.io)
+* [Apache Kafka](https://kafka.apache.org/)
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [Celery](https://docs.celeryproject.org/en/stable/)
+* [NSQ](https://nsq.io/)
+
 ### REST APIs
 
 * [OpenWeatherMap](https://openweathermap.org/api) - get weather data for your town
