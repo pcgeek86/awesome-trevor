@@ -59,6 +59,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Open Broadcaster Studio (OBS)](https://obsproject.com/)
 * [FFmpeg](https://github.com/FFmpeg/FFmpeg)
 * [Kurento Media Server](http://www.kurento.org/) - open source WebRTC media streaming server
+* [Node Media Server](https://github.com/illuspas/Node-Media-Server/) - Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 
 ### Databases
 
