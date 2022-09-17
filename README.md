@@ -121,3 +121,4 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [Buffalo](https://gobuffalo.io/) - A Go web development eco-system, designed to make your life easier.
 * [Fyne](https://github.com/fyne-io/fyne) - cross-platform GUI for Golang
+* [gg](https://github.com/fogleman/gg) - 2D graphics module for Golang
