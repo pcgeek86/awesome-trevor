@@ -136,6 +136,12 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a production-ready Kubernetes cluster (AWS, GCP, Azure, OpenStack, vSphere), built on top of Ansible
 * [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation
 
+### Kubernetes: Packaging
+
+* [Tanka](https://github.com/grafana/tanka)
+* [Helm](https://helm.sh)
+* [Arkade](https://github.com/alexellis/arkade)
+
 ### Kubernetes: Serverless
 
 * [Fission](https://fission.io/)
