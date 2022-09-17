@@ -114,6 +114,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [k8s CSI S3](https://github.com/yandex-cloud/k8s-csi-s3) - Container Storage Interface (CSI) for Amazon S3 object storage
 * [Coroot](https://github.com/coroot/coroot) - monitoring and troubleshooting tool for microservice architectures 💲
 * [Containerized Data Importer](https://github.com/kubevirt/containerized-data-importer/) - Data Import Service for kubernetes, designed with kubevirt in mind. Loads data into a PersistentVolume
+* [Submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
 
 ### Kubernetes: Distributions
 
