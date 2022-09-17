@@ -25,6 +25,13 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Duplicati](https://www.duplicati.com/) - open source backup software
 * [Apache Guacamole](https://guacamole.apache.org/) - open source web-based desktop / remote control client
 
+### Container Tools
+
+* [Buildah](https://github.com/containers/buildah) - tool that facilitates building OCI images
+* [oras](https://github.com/oras-project/oras) - Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM
+* [Shipwright](https://github.com/shipwright-io/build) - build container images on Kubernetes clusters
+* [Kaniko](https://github.com/GoogleContainerTools/kaniko) - build container images in Kubernetes
+
 ### Observability
 
 * [Telegraf](https://github.com/influxdata/telegraf) - open source, plugin-based metrics gathering, processing, and forwarding agent (CPU, Memory, Disk, SNMP, ICMP, HTTP, exec, etc.)
