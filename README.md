@@ -23,6 +23,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Pulumi](https://github.com/pulumi/pulumi) - open source, code-based infrastructure provisioning
 * [Duplicati](https://www.duplicati.com/) - open source backup software
 * [Apache Guacamole](https://guacamole.apache.org/) - open source web-based desktop / remote control client
+* [Telegraf](https://github.com/influxdata/telegraf) - open source, plugin-based metrics gathering, processing, and forwarding agent (CPU, Memory, Disk, SNMP, ICMP, HTTP, exec, etc.)
 
 ### Microsoft .NET (dotnet)
 
