@@ -12,7 +12,8 @@ This repository contains links to things that Trevor thinks are awesome.
 ### Infrastructure Tools
 
 * [Vagrant](https://www.vagrantup.com/) - a cross-platform CLI tool that enables you to automate deployment of virtual machines
-* Terraform
+* [Terraform](https://github.com/hashicorp/terraform) - infrastructure as code tool
+* [Terrakube](https://github.com/AzBuilder/terrakube) - run Terraform remotely, replacement for Terraform Enterprise
 * [Tflint](https://github.com/terraform-linters/tflint)
 * [Pulumi](https://github.com/pulumi/pulumi) - open source, code-based infrastructure provisioning
 * [Duplicati](https://www.duplicati.com/) - open source backup software
