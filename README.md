@@ -165,6 +165,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [krkn](https://github.com/redhat-chaos/krkn) - Chaos and resiliency testing tool for Kubernetes and OpenShift
 * [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
+* [Cerberus](https://github.com/redhat-chaos/cerberus) - tool to monitor Kubernetes clusters health and signal/alert on failures.
 
 ### CI/CD DevOps Tools
 
