@@ -16,6 +16,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Tflint](https://github.com/terraform-linters/tflint)
 * [Pulumi](https://github.com/pulumi/pulumi) - open source, code-based infrastructure provisioning
 * [Duplicati](https://www.duplicati.com/) - open source backup software
+* [Apache Guacamole](https://guacamole.apache.org/) - open source web-based desktop / remote control client
 
 ### Microsoft .NET (dotnet)
 
