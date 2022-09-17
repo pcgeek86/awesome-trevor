@@ -16,6 +16,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### Infrastructure Tools
 
+* [CloudQuery](https://github.com/cloudquery/cloudquery) - open-source data integration platform for security and infrastructure teams
 * [Vagrant](https://www.vagrantup.com/) - a cross-platform CLI tool that enables you to automate deployment of virtual machines
 * [Terraform](https://github.com/hashicorp/terraform) - infrastructure as code tool
 * [Terrakube](https://github.com/AzBuilder/terrakube) - run Terraform remotely, replacement for Terraform Enterprise
