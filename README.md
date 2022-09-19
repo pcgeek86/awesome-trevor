@@ -110,6 +110,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [CouchDB](https://couchdb.apache.org/)
 * [CockroachDB](https://github.com/cockroachdb/cockroach)
 * [Clickhouse](https://clickhouse.com/)
+* [Citus](https://www.citusdata.com/) - distributed PostgreSQL as an extension
 
 ### Documentation
 
