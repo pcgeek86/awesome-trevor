@@ -88,6 +88,11 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Kurento Media Server](http://www.kurento.org/) - open source WebRTC media streaming server
 * [Node Media Server](https://github.com/illuspas/Node-Media-Server/) - Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 
+### Video Editing
+
+* [OpenShot](https://www.openshot.org/)
+* [Shotcut](https://shotcut.org/)
+
 ### Databases
 
 * [MySQL](https://mysql.com)
