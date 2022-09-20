@@ -201,3 +201,10 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Buffalo](https://gobuffalo.io/) - A Go web development eco-system, designed to make your life easier.
 * [Fyne](https://github.com/fyne-io/fyne) - cross-platform GUI for Golang
 * [gg](https://github.com/fogleman/gg) - 2D graphics module for Golang
+
+### JavaScript
+
+* [Playwright](https://github.com/microsoft/playwright) - framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+* [Puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+* [Nut.js](https://nutjs.dev/) - Open Source Node.js Cross Platform Desktop Automation
+* [WebdriverIO](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js
