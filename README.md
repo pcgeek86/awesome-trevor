@@ -208,3 +208,4 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 * [Nut.js](https://nutjs.dev/) - Open Source Node.js Cross Platform Desktop Automation
 * [WebdriverIO](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js
+* [Next.js](https://nextjs.org/) - React framework + REST APIs in one package
