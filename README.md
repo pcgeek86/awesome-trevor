@@ -170,6 +170,12 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Emissary](https://github.com/emissary-ingress/emissary)
 * [Kong]()
 
+### Kubernetes: Networking
+
+* [Kilo](https://github.com/squat/kilo) - multi-cloud network overlay built on WireGuard and designed for Kubernetes
+* [Submariner](https://github.com/submariner-io/submariner)
+* [Netmaker](https://github.com/gravitl/netmaker) - 
+
 ### Kubernetes: Testing
 
 * [krkn](https://github.com/redhat-chaos/krkn) - Chaos and resiliency testing tool for Kubernetes and OpenShift
