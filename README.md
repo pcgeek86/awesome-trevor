@@ -39,11 +39,6 @@ This repository contains links to things that Trevor thinks are awesome.
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - logging infrastructure
 * [Greylog](https://github.com/Graylog2/graylog2-server) - log management solution
 
-### Microsoft .NET (dotnet)
-
-* [NAudio](https://www.nuget.org/packages/NAudio) - library for working with audio from .NET
-* [LVCharts](https://lvcharts.net/) - charting library for .NET
-
 ### Messaging
 
 * [NATS](https://nats.io)
@@ -214,3 +209,9 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Nut.js](https://nutjs.dev/) - Open Source Node.js Cross Platform Desktop Automation
 * [WebdriverIO](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js
 * [Next.js](https://nextjs.org/) - React framework + REST APIs in one package
+
+### Microsoft .NET (dotnet)
+
+* [NAudio](https://www.nuget.org/packages/NAudio) - library for working with audio from .NET
+* [LVCharts](https://lvcharts.net/) - charting library for .NET
+* [Spectrogram](https://github.com/swharden/Spectrogram) - create spectrograms (audio visualization) using C# .NET
