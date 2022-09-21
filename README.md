@@ -194,6 +194,13 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Kyverno](https://kyverno.io) - enforce Kubernetes resource configurations with Admission Control
 * [Datree](https://github.com/datreeio/datree) - enforce Kubernetes resource configurations via linting, Admission Control, scanning live resources
 
+### Animation
+
+* [Synfig](https://www.synfig.org/)
+* [Glaxnimate](https://gitlab.com/mattbas/glaxnimate)
+* [Pencil2D](https://www.pencil2d.org/)
+* [OpenToonz](https://github.com/opentoonz/opentoonz)
+
 ## Programming
 
 ### Golang
