@@ -193,6 +193,11 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Open Policy Agent (OPA) Gatekeeper](https://github.com/open-policy-agent/gatekeeper)
 * [Open Policy Administration Layer (OPAL)](https://www.opal.ac/)
 * [Kube Hunter](https://github.com/aquasecurity/kube-hunter) - open source tool from Aqua Security: Hunt for security weaknesses in Kubernetes clusters
+* [Kubewarden](https://github.com/kubewarden) - policy-as-code for Kubernetes clusters, does **NOT** require learning a Domain Specific Language (DSL)
+* [AWS CloudFormation Guard](https://github.com/aws-cloudformation/cloudformation-guard) - write policy-as-code using JSON and YAML
+* [Cerbos](https://github.com/cerbos/cerbos) - open source access control policy solution
+* [Kyverno](https://kyverno.io) - enforce Kubernetes resource configurations with Admission Control
+* [Datree](https://github.com/datreeio/datree) - enforce Kubernetes resource configurations via linting, Admission Control, scanning live resources
 
 ## Programming
 
