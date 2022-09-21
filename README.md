@@ -138,6 +138,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
 * [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a production-ready Kubernetes cluster (AWS, GCP, Azure, OpenStack, vSphere), built on top of Ansible
 * [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation
+* [System Upgrade Controller](https://github.com/rancher/system-upgrade-controller) - exposes a Custom Resource Definition (CRD) for upgrading Kubernetes nodes
 
 ### Kubernetes: Packaging
 
