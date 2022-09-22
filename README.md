@@ -128,7 +128,6 @@ This repository contains links to things that Trevor thinks are awesome.
 ### Kubernetes
 
 * [Meshery](https://github.com/meshery/meshery)
-* [Tekton](https://tekton.dev)
 * [ArgoCD](https://github.com/argoproj/argo-cd)
 * [Argo Workflows](https://github.com/argoproj/argo-workflows)
 * [Democratic CSI](https://github.com/democratic-csi/democratic-csi) - Container Storage Interface (CSI) with variety of support (NFS, iSCSI, SMB, etc.)
@@ -139,6 +138,11 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a production-ready Kubernetes cluster (AWS, GCP, Azure, OpenStack, vSphere), built on top of Ansible
 * [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation
 * [System Upgrade Controller](https://github.com/rancher/system-upgrade-controller) - exposes a Custom Resource Definition (CRD) for upgrading Kubernetes nodes
+
+### Kubernetes: Service Mesh
+
+* [Traefik Mesh](https://traefik.io/traefik-mesh/)
+* [Open Service Mesh (OSM)](https://github.com/openservicemesh/osm)
 
 ### Kubernetes: Packaging
 
@@ -186,6 +190,8 @@ This repository contains links to things that Trevor thinks are awesome.
 ### CI/CD DevOps Tools
 
 * [Concourse](https://concourse-ci.org/)
+* [Tekton](https://tekton.dev)
+* [Jenkins X](https://jenkins-x.io/)
 
 ### Security Tools
 
@@ -200,6 +206,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Cerbos](https://github.com/cerbos/cerbos) - open source access control policy solution
 * [Kyverno](https://kyverno.io) - enforce Kubernetes resource configurations with Admission Control
 * [Datree](https://github.com/datreeio/datree) - enforce Kubernetes resource configurations via linting, Admission Control, scanning live resources
+* [Trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 
 ### Animation
 
