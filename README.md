@@ -201,6 +201,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit
 * [Drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform 
 * [Dagger](https://github.com/dagger/dagger) - portable devkit for CI/CD pipelines
+* [GoCD](https://github.com/gocd/gocd) - Continuous Delivery server 
 
 ### Security Tools
 
