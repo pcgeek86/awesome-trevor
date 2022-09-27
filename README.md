@@ -242,3 +242,5 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers (JavaScript)
 * [Tooljet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications (JavaScript)
 * [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file (Golang)
+* [Supabase](https://github.com/supabase/supabase) - open source Firebase alternative (Typescript)
+
