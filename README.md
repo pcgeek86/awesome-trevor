@@ -197,6 +197,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Concourse](https://concourse-ci.org/)
 * [Tekton](https://tekton.dev)
 * [Jenkins X](https://jenkins-x.io/)
+* [Earthly](https://github.com/earthly/earthly) - effortless CI/CD framework that runs anywhere
 
 ### Security Tools
 
