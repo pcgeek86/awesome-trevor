@@ -106,6 +106,10 @@ This repository contains links to things that Trevor thinks are awesome.
 * [CockroachDB](https://github.com/cockroachdb/cockroach)
 * [Clickhouse](https://clickhouse.com/)
 * [Citus](https://www.citusdata.com/) - distributed PostgreSQL as an extension
+* [Dragonfly](https://github.com/dragonflydb/dragonfly) - modern replacement for Redis and Memcached
+* [Apache Doris](https://github.com/apache/doris) - easy-to-use, high performance and unified analytics database
+* [EdgeDB](https://github.com/edgedb/edgedb) - graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+* [Nebula](https://github.com/vesoft-inc/nebula) - distributed, fast open-source graph database featuring horizontal scalability and high availability 
 
 ### Documentation
 
