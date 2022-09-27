@@ -267,3 +267,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file (Golang)
 * [Supabase](https://github.com/supabase/supabase) - open source Firebase alternative (Typescript)
 
+### Version Control
+
+* [Gogs](https://gogs.io/) - painless self-hosted Git service
+* [GitBucket](https://github.com/gitbucket/gitbucket) - Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility 
+* [Gitea](https://gitea.io/) - painless self-hosted Git service
