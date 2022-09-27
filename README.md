@@ -237,6 +237,14 @@ This repository contains links to things that Trevor thinks are awesome.
 * [LVCharts](https://lvcharts.net/) - charting library for .NET
 * [Spectrogram](https://github.com/swharden/Spectrogram) - create spectrograms (audio visualization) using C# .NET
 
+### PowerShell  <img src="https://raw.github.com/pcgeek86/awesome-trevor/main/assets/powershell.svg?sanitize=true" height=18>
+
+* [Pode](https://github.com/Badgerati/Pode) - cross-platform web framework for PowerShell
+
+### Python  <img src="https://raw.github.com/pcgeek86/awesome-trevor/main/assets/Python.svg?sanitize=true" height=18>
+
+* [Docquery](https://github.com/impira/docquery) - easy way to extract information from documents, Python module
+
 ### Low-code / No-code Backends
 
 * [Appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers (JavaScript)
