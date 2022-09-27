@@ -236,3 +236,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [NAudio](https://www.nuget.org/packages/NAudio) - library for working with audio from .NET
 * [LVCharts](https://lvcharts.net/) - charting library for .NET
 * [Spectrogram](https://github.com/swharden/Spectrogram) - create spectrograms (audio visualization) using C# .NET
+
+### Low-code / No-code
+
+* [Appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 
+* [Tooljet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications
