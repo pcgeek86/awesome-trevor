@@ -92,6 +92,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### Databases
 
+* [DGraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 * [MySQL](https://mysql.com)
 * [PostgreSQL](https://www.postgresql.org/)
 * [MongoDB](https://www.mongodb.com/)
