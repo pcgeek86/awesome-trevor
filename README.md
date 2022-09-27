@@ -198,6 +198,9 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Tekton](https://tekton.dev)
 * [Jenkins X](https://jenkins-x.io/)
 * [Earthly](https://github.com/earthly/earthly) - effortless CI/CD framework that runs anywhere
+* [Flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit
+* [Drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform 
+* [Dagger](https://github.com/dagger/dagger) - portable devkit for CI/CD pipelines
 
 ### Security Tools
 
@@ -250,6 +253,11 @@ This repository contains links to things that Trevor thinks are awesome.
 ### Python  <img src="https://raw.github.com/pcgeek86/awesome-trevor/main/assets/Python.svg?sanitize=true" height=18>
 
 * [Docquery](https://github.com/impira/docquery) - easy way to extract information from documents, Python module
+
+### Application Frameworks
+
+* [Tauri](https://tauri.app/) - Build smaller, faster, and more secure desktop applications with a web frontend
+* [Electron](https://www.electronjs.org/) - Build cross-platform desktop apps with JavaScript, HTML, and CSS 
 
 ### Low-code / No-code Backends
 
