@@ -215,13 +215,17 @@ This repository contains links to things that Trevor thinks are awesome.
 ### Kubernetes: Ingress
 
 * [Emissary](https://github.com/emissary-ingress/emissary)
-* [Kong]()
+* [Kong](https://github.com/Kong/kubernetes-ingress-controller) - official Ingress Controller for Kubernetes
 
 ### Kubernetes: Networking
 
 * [Kilo](https://github.com/squat/kilo) - multi-cloud network overlay built on WireGuard and designed for Kubernetes
 * [Submariner](https://github.com/submariner-io/submariner)
 * [Netmaker](https://github.com/gravitl/netmaker) - 
+
+* [Cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
+* [Calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
+
 * [Kusk](https://github.com/kubeshop/kusk) - Kubeshop: OpenAPI-driven API Gateway for Kubernetes, request/response validation, timeouts, mocking, rate limiting
 
 ### Kubernetes: Testing
