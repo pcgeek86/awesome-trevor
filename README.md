@@ -40,6 +40,9 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Vagrant](https://www.vagrantup.com/) - a cross-platform CLI tool that enables you to automate deployment of virtual machines
 * [Terraform](https://github.com/hashicorp/terraform) - infrastructure as code tool
 * [Terrakube](https://github.com/AzBuilder/terrakube) - run Terraform remotely, replacement for Terraform Enterprise
+* [Citizen](https://github.com/outsideris/citizen) - Private Terraform Module/Provider Registry
+* [Terralist](https://github.com/valentindeaconu/terralist) - Private Terraform registry controllable from a REST API
+* [Terrareg](https://github.com/MatthewJohn/terrareg) - Terraform module registry
 * [Tflint](https://github.com/terraform-linters/tflint)
 * [Pulumi](https://github.com/pulumi/pulumi) - open source, code-based infrastructure provisioning
 * [Duplicati](https://www.duplicati.com/) - open source backup software
