@@ -300,6 +300,8 @@ This repository contains links to things that Trevor thinks are awesome.
 ### Python  <img src="https://raw.github.com/pcgeek86/awesome-trevor/main/assets/Python.svg?sanitize=true" height=18>
 
 * [Docquery](https://github.com/impira/docquery) - easy way to extract information from documents, Python module
+* [KivyMD](https://github.com/kivymd/KivyMD) - Material Design compliant widgets for use with, Kivy
+
 
 ### Application Frameworks
 
