@@ -116,7 +116,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [OpenShot](https://www.openshot.org/)
 * [Shotcut](https://shotcut.org/)
 
-### Dashboard Visualization / Business Intelligence
+### 📊 Dashboard Visualization / Business Intelligence
 
 * [Metabase](https://github.com/metabase/metabase) - simplest, fastest way to get business intelligence and analytics
 * [Grafana](https://github.com/grafana/grafana) - open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more
@@ -126,7 +126,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [AntVis G6](https://github.com/antvis/g6) - graph Visualization Framework in JavaScript
 * [Neovis.js](https://github.com/neo4j-contrib/neovis.js/) - JavaScript library to help developers build graph visualizations from Neo4j data
 * [Popoto.js](http://www.popotojs.com/) - community-driven JS library for creating embeddable visualizations, built on D3.js
-
+* [Cytoscape](https://cytoscape.org/) -  open source software platform for visualizing complex graph networks
 ### Databases
 
 * [DGraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
