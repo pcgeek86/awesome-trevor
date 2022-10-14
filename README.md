@@ -101,6 +101,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Cube.js](https://github.com/cube-js/cube.js) - Headless Business Intelligence for Building Data Applications
 * [AntVis G6](https://github.com/antvis/g6) - graph Visualization Framework in JavaScript
 * [Neovis.js](https://github.com/neo4j-contrib/neovis.js/) - JavaScript library to help developers build graph visualizations from Neo4j data
+* [Popoto.js](http://www.popotojs.com/) - community-driven JS library for creating embeddable visualizations, built on D3.js
 
 ### Databases
 
@@ -257,6 +258,9 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Nut.js](https://nutjs.dev/) - Open Source Node.js Cross Platform Desktop Automation
 * [WebdriverIO](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js
 * [Next.js](https://nextjs.org/) - React framework + REST APIs in one package
+* [Nivo.js](https://nivo.rocks/) - rich set of dataviz components, built on top of D3 and React
+* [Tremor](https://www.tremor.so/) - React library to build dashboards fast
+
 
 ### Microsoft .NET (dotnet)
 
