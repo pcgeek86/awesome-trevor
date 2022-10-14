@@ -7,14 +7,16 @@ This repository contains links to things that Trevor thinks are awesome.
 * [ConsoleMe](https://github.com/Netflix/consoleme) - open source IAM policy management tool from Netflix
 
 
-### Cloud Vendors
+### ☁️ Cloud Vendors
 
 * Digital Ocean
 * Linode
 * Vultr
 * [MaaS](https://maas.io/) - Metal as a Service from Canonical / Ubuntu
 
-### Infrastructure Tools
+### 🐧 Linux Distributions
+
+### 🖥️ Infrastructure Tools
 
 * [CloudQuery](https://github.com/cloudquery/cloudquery) - open-source data integration platform for security and infrastructure teams
 * [Vagrant](https://www.vagrantup.com/) - a cross-platform CLI tool that enables you to automate deployment of virtual machines
@@ -27,7 +29,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Cloudify](https://github.com/cloudify-cosmo/) - open-source multi-cloud and edge orchestration platform
 * [Apache CloudStack](https://cloudstack.apache.org/) - open source software for deploying public and private Infrastructure-as-a-Service (IaaS) clouds (WebUI, Hyper-V, KVM, VMware ESXi)
 
-### Container Tools
+### 🐋 Container Tools
 
 * [Buildah](https://github.com/containers/buildah) - tool that facilitates building OCI images
 * [oras](https://github.com/oras-project/oras) - Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM
@@ -41,7 +43,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - logging infrastructure
 * [Greylog](https://github.com/Graylog2/graylog2-server) - log management solution
 
-### Messaging
+### 📨 Messaging
 
 * [NATS](https://nats.io)
 * [Apache Kafka](https://kafka.apache.org/)
@@ -61,7 +63,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Postman](https://postman.com)
 * [Slate](https://github.com/slatedocs/slate) - REST API documentation generator
 
-### Machine Learning
+### 🧠 Machine Learning
 
 * [Yolov5](https://github.com/ultralytics/yolov5)
 * [ONNX](https://onnxruntime.ai/)
