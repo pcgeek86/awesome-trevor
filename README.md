@@ -19,6 +19,21 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Ubuntu Studio](https://ubuntustudio.org/) - community effort, created by volunteers, targeted towards all skill levels, from beginner to pro, and aims to be easy to install and easy to use, as well as provide all the tools necessary for any type of media content creation
 * [Void Linux](https://voidlinux.org/) - general purpose operating system, based on the monolithic Linux kernel. XBPS package system quickly installs, update and removes software
 
+### 💻 Terminal Emulators
+
+* [Tabby](https://github.com/Eugeny/tabby/) - terminal for a more modern age
+* [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - good looking terminal emulator which mimics the old cathode display
+* [Tilix](https://github.com/gnunn1/tilix/) - tiling terminal emulator for Linux using GTK+ 3
+* [Terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
+* [Tilda](https://github.com/lanoxx/tilda) - Gtk based drop down terminal for Linux and Unix
+* [Guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
+* [Yakuake](https://apps.kde.org/yakuake/) - drop-down terminal emulator based on KDE Konsole technology
+* [Hyper](https://github.com/vercel/hyper) - terminal built on web technologies, from Vercel
+* [ROXTerm](https://github.com/realh/roxterm) - terminal emulator intended to provide similar features to gnome-terminal
+* [Konsole](https://konsole.kde.org/) - KDE's Terminal Emulator
+* [Kitty](https://github.com/kovidgoyal/kitty) - fast, feature-rich, GPU based terminal emulator
+
+
 ### 🖥️ Infrastructure Tools
 
 * [CloudQuery](https://github.com/cloudquery/cloudquery) - open-source data integration platform for security and infrastructure teams
@@ -266,7 +281,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Next.js](https://nextjs.org/) - React framework + REST APIs in one package
 * [Nivo.js](https://nivo.rocks/) - rich set of dataviz components, built on top of D3 and React
 * [Tremor](https://www.tremor.so/) - React library to build dashboards fast
-
+* [C3.js](https://c3js.org/) - D3-based reusable chart library
+* [xterm.js](https://github.com/xtermjs/xterm.js/) - terminal for the web
 
 ### Microsoft .NET (dotnet)
 
