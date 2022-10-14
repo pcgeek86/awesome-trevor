@@ -25,6 +25,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Duplicati](https://www.duplicati.com/) - open source backup software
 * [Apache Guacamole](https://guacamole.apache.org/) - open source web-based desktop / remote control client (RDP)
 * [Cloudify](https://github.com/cloudify-cosmo/) - open-source multi-cloud and edge orchestration platform
+* [Apache CloudStack](https://cloudstack.apache.org/) - open source software for deploying public and private Infrastructure-as-a-Service (IaaS) clouds (WebUI, Hyper-V, KVM, VMware ESXi)
 
 ### Container Tools
 
@@ -113,7 +114,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Neo4j](https://neo4j.com/)
 * [RethinkDB](https://rethinkdb.com/)
 * [Cassandra](https://cassandra.apache.org/_/index.html)
-* [Redis](https://redis.io)
+* [Redis](https://redis.io) - high performance, in-memory key-value storage (modules for Graph, Time-Series, JSON, etc.)
 * [CouchDB](https://couchdb.apache.org/)
 * [CockroachDB](https://github.com/cockroachdb/cockroach)
 * [Clickhouse](https://clickhouse.com/)
