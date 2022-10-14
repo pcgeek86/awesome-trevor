@@ -38,6 +38,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [oras](https://github.com/oras-project/oras) - Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM
 * [Shipwright](https://github.com/shipwright-io/build) - build container images on Kubernetes clusters
 * [Kaniko](https://github.com/GoogleContainerTools/kaniko) - build container images in Kubernetes
+* [Podman](https://podman.io/) - daemonless container engine for developing, managing, and running OCI Containers on your Linux System
 
 ### Observability
 
