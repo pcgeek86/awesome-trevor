@@ -90,13 +90,15 @@ This repository contains links to things that Trevor thinks are awesome.
 * [OpenShot](https://www.openshot.org/)
 * [Shotcut](https://shotcut.org/)
 
-### Dashboards / Business Intelligence
+### Dashboard Visualization / Business Intelligence
 
 * [Metabase](https://github.com/metabase/metabase) - simplest, fastest way to get business intelligence and analytics
 * [Grafana](https://github.com/grafana/grafana) - open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more
 * [Chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more
 * [Apache Superset](https://github.com/apache/superset) - Data Visualization and Data Exploration Platform
 * [Cube.js](https://github.com/cube-js/cube.js) - Headless Business Intelligence for Building Data Applications
+* [AntVis G6](https://github.com/antvis/g6) - graph Visualization Framework in JavaScript
+* 
 
 ### Databases
 
@@ -193,6 +195,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Kilo](https://github.com/squat/kilo) - multi-cloud network overlay built on WireGuard and designed for Kubernetes
 * [Submariner](https://github.com/submariner-io/submariner)
 * [Netmaker](https://github.com/gravitl/netmaker) - 
+* [Kusk](https://github.com/kubeshop/kusk) - Kubeshop: OpenAPI-driven API Gateway for Kubernetes, request/response validation, timeouts, mocking, rate limiting
 
 ### Kubernetes: Testing
 
