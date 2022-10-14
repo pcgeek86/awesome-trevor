@@ -16,6 +16,9 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### 🐧 Linux Distributions
 
+* [Ubuntu Studio](https://ubuntustudio.org/) - community effort, created by volunteers, targeted towards all skill levels, from beginner to pro, and aims to be easy to install and easy to use, as well as provide all the tools necessary for any type of media content creation
+* [Void Linux](https://voidlinux.org/) - general purpose operating system, based on the monolithic Linux kernel. XBPS package system quickly installs, update and removes software
+
 ### 🖥️ Infrastructure Tools
 
 * [CloudQuery](https://github.com/cloudquery/cloudquery) - open-source data integration platform for security and infrastructure teams
