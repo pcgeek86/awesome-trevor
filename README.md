@@ -100,7 +100,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Apache Superset](https://github.com/apache/superset) - Data Visualization and Data Exploration Platform
 * [Cube.js](https://github.com/cube-js/cube.js) - Headless Business Intelligence for Building Data Applications
 * [AntVis G6](https://github.com/antvis/g6) - graph Visualization Framework in JavaScript
-* 
+* [Neovis.js](https://github.com/neo4j-contrib/neovis.js/) - JavaScript library to help developers build graph visualizations from Neo4j data
 
 ### Databases
 
