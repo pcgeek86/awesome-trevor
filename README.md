@@ -295,6 +295,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [TCell](https://github.com/gdamore/tcell) - alternate terminal package, similar in some ways to termbox
 * [TView](https://github.com/rivo/tview/) - Terminal UI library with rich, interactive widgets
 * [Go-app](https://github.com/murlokswarm/app) - package for building progressive web apps (PWA)
+* [Wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
 ### JavaScript
 
