@@ -275,6 +275,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### Golang
 
+* [Bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework
 * [Buffalo](https://gobuffalo.io/) - A Go web development eco-system, designed to make your life easier.
 * [Fyne](https://github.com/fyne-io/fyne) - cross-platform GUI for Golang
 * [gg](https://github.com/fogleman/gg) - 2D graphics module for Golang
@@ -296,6 +297,9 @@ This repository contains links to things that Trevor thinks are awesome.
 * [TView](https://github.com/rivo/tview/) - Terminal UI library with rich, interactive widgets
 * [Go-app](https://github.com/murlokswarm/app) - package for building progressive web apps (PWA)
 * [Wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+* [Dagu](https://github.com/yohamta/dagu) - Cron alternative with a Web UI (workflows / DAGs)
+* [SFTP-Go](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+* [Death](https://github.com/vrecan/death) - Managing go application shutdown with signals
 
 ### JavaScript
 
