@@ -286,7 +286,15 @@ This repository contains links to things that Trevor thinks are awesome.
 * [gCLI](https://github.com/gookit/gcli) - Go CLI application, tool library
 * [GoUtil](https://github.com/gookit/goutil) - Helper Utils For Go
 * [Script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-
+* [Malgo](https://github.com/gen2brain/malgo) - Mini audio library
+* [PTerm](https://github.com/pterm/pterm) - ⭐️ modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 
+* [Viper](https://github.com/spf13/viper) - complete configuration solution for Go applications
+* [Woodpecker](https://github.com/woodpecker-ci/woodpecker) - community fork of the Drone CI system.
+* [Ebitengine](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine for Go
+* [Pixel](https://github.com/faiface/pixel) - hand-crafted 2D game library in Go
+* [TCell](https://github.com/gdamore/tcell) - alternate terminal package, similar in some ways to termbox
+* [TView](https://github.com/rivo/tview/) - Terminal UI library with rich, interactive widgets
+* [Go-app](https://github.com/murlokswarm/app) - package for building progressive web apps (PWA)
 
 ### JavaScript
 
