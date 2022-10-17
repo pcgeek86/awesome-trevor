@@ -278,6 +278,15 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Buffalo](https://gobuffalo.io/) - A Go web development eco-system, designed to make your life easier.
 * [Fyne](https://github.com/fyne-io/fyne) - cross-platform GUI for Golang
 * [gg](https://github.com/fogleman/gg) - 2D graphics module for Golang
+* [Gorm](https://gorm.io/) - The fantastic ORM library for Golang
+* [Neo4j](https://github.com/neo4j/neo4j-go-driver) - Neo4j Bolt Driver for Go
+* [Redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
+* [Cobra](https://github.com/spf13/cobra) - library for creating powerful modern CLI applications
+* [Color](https://github.com/gookit/color) - Terminal color rendering library
+* [gCLI](https://github.com/gookit/gcli) - Go CLI application, tool library
+* [GoUtil](https://github.com/gookit/goutil) - Helper Utils For Go
+* [Script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
+
 
 ### JavaScript
 
