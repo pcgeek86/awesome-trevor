@@ -301,6 +301,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [SFTP-Go](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 * [Death](https://github.com/vrecan/death) - Managing go application shutdown with signals
 * [Lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
+* [Glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
 ### JavaScript
 
