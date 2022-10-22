@@ -19,6 +19,12 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Ubuntu Studio](https://ubuntustudio.org/) - community effort, created by volunteers, targeted towards all skill levels, from beginner to pro, and aims to be easy to install and easy to use, as well as provide all the tools necessary for any type of media content creation
 * [Void Linux](https://voidlinux.org/) - general purpose operating system, based on the monolithic Linux kernel. XBPS package system quickly installs, update and removes software
 
+### General Purpose CLI Tools
+
+* [fm](https://github.com/knipferrc/fm) - A terminal based file manager
+* [fman](https://github.com/nore-dev/fman) - TUI File Manager
+
+
 ### 💻 Terminal Emulators
 
 * [Tabby](https://github.com/Eugeny/tabby/) - terminal for a more modern age
@@ -277,6 +283,8 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [Bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework
 * [Buffalo](https://gobuffalo.io/) - A Go web development eco-system, designed to make your life easier.
+* [Chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
+* [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 * [Fyne](https://github.com/fyne-io/fyne) - cross-platform GUI for Golang
 * [gg](https://github.com/fogleman/gg) - 2D graphics module for Golang
 * [Gorm](https://gorm.io/) - The fantastic ORM library for Golang
