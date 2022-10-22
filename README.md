@@ -133,6 +133,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Neovis.js](https://github.com/neo4j-contrib/neovis.js/) - JavaScript library to help developers build graph visualizations from Neo4j data
 * [Popoto.js](http://www.popotojs.com/) - community-driven JS library for creating embeddable visualizations, built on D3.js
 * [Cytoscape](https://cytoscape.org/) -  open source software platform for visualizing complex graph networks
+
 ### Databases
 
 * [DGraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
@@ -175,6 +176,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### Kubernetes
 
+* [Mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 * [Monokle](https://github.com/kubeshop/monokle) - your best friend for defining, comparing, and auditing your K8s actual and desired states
 * [Meshery](https://github.com/meshery/meshery)
 * [ArgoCD](https://github.com/argoproj/argo-cd)
