@@ -265,6 +265,10 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Kyverno](https://kyverno.io) - enforce Kubernetes resource configurations with Admission Control
 * [Datree](https://github.com/datreeio/datree) - enforce Kubernetes resource configurations via linting, Admission Control, scanning live resources
 
+### ⚠️ Monitoring / Notification Tools 
+
+* [Grafana OnCall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
+
 ### Security Tools
 
 * [CrowdSec](https://github.com/crowdsecurity/crowdsec) - open source IPS
