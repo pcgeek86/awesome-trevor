@@ -176,6 +176,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### Kubernetes
 
+* [KEDA](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component
 * [Mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 * [Monokle](https://github.com/kubeshop/monokle) - your best friend for defining, comparing, and auditing your K8s actual and desired states
 * [Meshery](https://github.com/meshery/meshery)
