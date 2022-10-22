@@ -155,6 +155,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Apache Doris](https://github.com/apache/doris) - easy-to-use, high performance and unified analytics database
 * [EdgeDB](https://github.com/edgedb/edgedb) - graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 * [Nebula](https://github.com/vesoft-inc/nebula) - distributed, fast open-source graph database featuring horizontal scalability and high availability 
+* [Cortex](https://cortexmetrics.io/) - Horizontally scalable, highly available, multi-tenant, long term storage for Prometheus
+* [Prometheus](https://prometheus.io/) - metrics storage engine
 
 ### Documentation
 
@@ -341,7 +343,8 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [Docquery](https://github.com/impira/docquery) - easy way to extract information from documents, Python module
 * [KivyMD](https://github.com/kivymd/KivyMD) - Material Design compliant widgets for use with, Kivy
-
+* [PyAutoGUI](https://github.com/asweigart/pyautogui) - control the mouse and keyboard to automate interactions with other applications
+* [Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library
 
 ### Application Frameworks
 
