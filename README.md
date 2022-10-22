@@ -175,6 +175,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### Kubernetes
 
+* [Monokle](https://github.com/kubeshop/monokle) - your best friend for defining, comparing, and auditing your K8s actual and desired states
 * [Meshery](https://github.com/meshery/meshery)
 * [ArgoCD](https://github.com/argoproj/argo-cd)
 * [Argo Workflows](https://github.com/argoproj/argo-workflows)
