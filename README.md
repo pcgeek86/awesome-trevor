@@ -136,6 +136,8 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### Databases
 
+* [Apache Solr](https://solr.apache.org/) - blazing-fast, open source enterprise search platform built on Apache Lucene
+* [ArangoDB](https://github.com/arangodb/arangodb) - native multi-model database with flexible data models for documents, graphs, and key-values
 * [DGraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 * [MySQL](https://mysql.com)
 * [PostgreSQL](https://www.postgresql.org/)
@@ -234,10 +236,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Kilo](https://github.com/squat/kilo) - multi-cloud network overlay built on WireGuard and designed for Kubernetes
 * [Submariner](https://github.com/submariner-io/submariner)
 * [Netmaker](https://github.com/gravitl/netmaker) - 
-
 * [Cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 * [Calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
-
 * [Kusk](https://github.com/kubeshop/kusk) - Kubeshop: OpenAPI-driven API Gateway for Kubernetes, request/response validation, timeouts, mocking, rate limiting
 
 ### Kubernetes: Testing
@@ -288,6 +288,11 @@ This repository contains links to things that Trevor thinks are awesome.
 * [OpenToonz](https://github.com/opentoonz/opentoonz)
 
 ## Programming
+
+### API Gateway
+
+* [Apache APISIX](https://apisix.apache.org/) - Full Lifecycle API Management, rich traffic management features like Load Balancing, Dynamic Upstream, Canary Release, Circuit Breaking, Authentication, Observability, etc.
+* 
 
 ### Golang
 
