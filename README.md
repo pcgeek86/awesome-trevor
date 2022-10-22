@@ -23,7 +23,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [fm](https://github.com/knipferrc/fm) - A terminal based file manager
 * [fman](https://github.com/nore-dev/fman) - TUI File Manager
-
+* [lf](https://github.com/gokcehan/lf) - Terminal file manager
 
 ### 💻 Terminal Emulators
 
