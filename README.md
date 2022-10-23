@@ -13,6 +13,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * Linode
 * Vultr
 * [MaaS](https://maas.io/) - Metal as a Service from Canonical / Ubuntu
+* [Bit.io](https://bit.io/) - Managed Postgres databases (💰 free tier available) 
+
 
 ### 🐧 Linux Distributions
 
