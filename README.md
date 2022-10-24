@@ -123,6 +123,9 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [OpenShot](https://www.openshot.org/)
 * [Shotcut](https://shotcut.org/)
+* [AviSynth+](https://github.com/AviSynth/AviSynthPlus/) - AviSynth+ is a fork of the well-known frameserver
+* [ECCV2022-RIFE](https://github.com/megvii-research/ECCV2022-RIFE) - ECCV2022-Real-Time Intermediate Flow Estimation for Video Frame Interpolation
+* [VapourSynth](https://github.com/vapoursynth/vapoursynth/) 
 
 ### 📊 Dashboard Visualization / Business Intelligence
 
