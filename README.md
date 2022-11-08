@@ -138,6 +138,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Neovis.js](https://github.com/neo4j-contrib/neovis.js/) - JavaScript library to help developers build graph visualizations from Neo4j data
 * [Popoto.js](http://www.popotojs.com/) - community-driven JS library for creating embeddable visualizations, built on D3.js
 * [Cytoscape](https://cytoscape.org/) -  open source software platform for visualizing complex graph networks
+* [Streamlit](https://github.com/streamlit/streamlit) - open source Python-based framework for building "data apps"
 
 ### Databases
 
