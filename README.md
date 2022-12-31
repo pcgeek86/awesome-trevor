@@ -308,6 +308,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 * [Fyne](https://github.com/fyne-io/fyne) - cross-platform GUI for Golang
 * [gg](https://github.com/fogleman/gg) - 2D graphics module for Golang
+* [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 * [Gorm](https://gorm.io/) - The fantastic ORM library for Golang
 * [Neo4j](https://github.com/neo4j/neo4j-go-driver) - Neo4j Bolt Driver for Go
 * [Redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
