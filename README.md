@@ -318,6 +318,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [GoUtil](https://github.com/gookit/goutil) - Helper Utils For Go
 * [Script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 * [Malgo](https://github.com/gen2brain/malgo) - Mini audio library
+* [Notify](https://github.com/nikoksr/notify)- dead simple Go library for sending notifications to various messaging services
 * [PTerm](https://github.com/pterm/pterm) - ⭐️ modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 
 * [Viper](https://github.com/spf13/viper) - complete configuration solution for Go applications
 * [Woodpecker](https://github.com/woodpecker-ci/woodpecker) - community fork of the Drone CI system.
