@@ -361,6 +361,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 * [Glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 * [Clash](https://github.com/Dreamacro/clash) - rule-based tunnel in Go
+* [Go E-charts](https://github.com/go-echarts/go-echarts) - adorable charts library for Golang
+* [D2](https://github.com/terrastruct/d2) - modern diagram scripting language that turns text to diagrams
 
 ### JavaScript
 
