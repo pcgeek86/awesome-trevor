@@ -375,6 +375,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Tremor](https://www.tremor.so/) - React library to build dashboards fast
 * [C3.js](https://c3js.org/) - D3-based reusable chart library
 * [xterm.js](https://github.com/xtermjs/xterm.js/) - terminal for the web
+* [ChakraUI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications
 
 ### Microsoft .NET (dotnet)
 
