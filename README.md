@@ -26,6 +26,14 @@ This repository contains links to things that Trevor thinks are awesome.
 * [fm](https://github.com/knipferrc/fm) - A terminal based file manager
 * [fman](https://github.com/nore-dev/fman) - TUI File Manager
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager
+* [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
+* [Sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+* [Viddy](https://github.com/sachaos/viddy) - modern watch command. Time machine and pager etc.\
+
+### Email / SMTP
+
+* [Mailhog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
+* 
 
 ### 💻 Terminal Emulators
 
@@ -46,6 +54,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [CloudQuery](https://github.com/cloudquery/cloudquery) - open-source data integration platform for security and infrastructure teams
 * [Vagrant](https://www.vagrantup.com/) - a cross-platform CLI tool that enables you to automate deployment of virtual machines
+* [Klotho](https://github.com/klothoplatform/klotho) - a CLI tool that transforms plain code into cloud native code
 * [Terraform](https://github.com/hashicorp/terraform) - infrastructure as code tool
 * [Terrakube](https://github.com/AzBuilder/terrakube) - run Terraform remotely, replacement for Terraform Enterprise
 * [Citizen](https://github.com/outsideris/citizen) - Private Terraform Module/Provider Registry
@@ -71,7 +80,10 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Telegraf](https://github.com/influxdata/telegraf) - open source, plugin-based metrics gathering, processing, and forwarding agent (CPU, Memory, Disk, SNMP, ICMP, HTTP, exec, etc.)
 * [Vector](https://vector.dev/) - open source log management tool from DataDog, similar to Fluentd
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - logging infrastructure
-* [Greylog](https://github.com/Graylog2/graylog2-server) - log management solution
+* [Graylog](https://github.com/Graylog2/graylog2-server) - log management solution
+* [Zinc](https://github.com/zinclabs/zinc) - lightweight alternative to elasticsearch that requires minimal resources
+* [Gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
+
 
 ### 📨 Messaging
 
@@ -311,6 +323,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### Golang
 
+* [GopherJS](https://github.com/gopherjs/gopherjs) - compiler from Go to JavaScript for running Go code in a browser
 * [Bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework
 * [Buffalo](https://gobuffalo.io/) - A Go web development eco-system, designed to make your life easier.
 * [Chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -389,3 +402,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Gogs](https://gogs.io/) - painless self-hosted Git service
 * [GitBucket](https://github.com/gitbucket/gitbucket) - Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility 
 * [Gitea](https://gitea.io/) - painless self-hosted Git service
+
+### Mobile (Android, iOS)
+
+* [ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
