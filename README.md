@@ -97,6 +97,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [Traefik](https://github.com/traefik/traefik)
 * [Caddy](https://github.com/caddyserver/caddy)
+* [frp](https://github.com/fatedier/frp) - fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet
 
 ### REST APIs
 
@@ -323,6 +324,10 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### Golang
 
+* [Aero](https://github.com/aerogo/aero) - High-performance web server for Go
+* [Beego](https://github.com/beego/beego) - open-source, high-performance web framework for the Go programming language
+* [Fiber](https://github.com/gofiber/fiber) - Express inspired web framework written in Go
+* [Kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era
 * [GopherJS](https://github.com/gopherjs/gopherjs) - compiler from Go to JavaScript for running Go code in a browser
 * [Bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework
 * [Buffalo](https://gobuffalo.io/) - A Go web development eco-system, designed to make your life easier.
@@ -355,6 +360,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Death](https://github.com/vrecan/death) - Managing go application shutdown with signals
 * [Lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 * [Glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+* [Clash](https://github.com/Dreamacro/clash) - rule-based tunnel in Go
 
 ### JavaScript
 
