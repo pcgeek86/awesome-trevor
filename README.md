@@ -98,6 +98,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Traefik](https://github.com/traefik/traefik)
 * [Caddy](https://github.com/caddyserver/caddy)
 * [frp](https://github.com/fatedier/frp) - fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet
+* [NGINX Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 
 ### REST APIs
 
