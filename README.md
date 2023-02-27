@@ -412,6 +412,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Gogs](https://gogs.io/) - painless self-hosted Git service
 * [GitBucket](https://github.com/gitbucket/gitbucket) - Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility 
 * [Gitea](https://gitea.io/) - painless self-hosted Git service
+* [OneDev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 
 ### Mobile (Android, iOS)
 
