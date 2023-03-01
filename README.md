@@ -135,6 +135,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 * [Transfer.sh](https://github.com/dutchcoders/transfer.sh) - easy and fast file sharing from the command-line
 * [File Browser](https://github.com/filebrowser/filebrowser) - web-based file browser
+* [PsiTransfer](https://github.com/psi-4ward/psitransfer) - simple open source self-hosted file sharing solution
 
 ### Video Streaming
 
