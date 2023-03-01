@@ -132,6 +132,9 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Filestash](https://github.com/mickael-kerjean/filestash) - modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze
 * [Fileshelter](https://github.com/epoupon/fileshelter) - “one-click” file sharing web application
 * [Cloudreve](https://github.com/cloudreve/Cloudreve)- self-hosted file management and sharing system, supports multiple storage providers
+* [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
+* [Transfer.sh](https://github.com/dutchcoders/transfer.sh) - easy and fast file sharing from the command-line
+* [File Browser](https://github.com/filebrowser/filebrowser) - web-based file browser
 
 ### Video Streaming
 
