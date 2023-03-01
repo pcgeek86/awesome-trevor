@@ -129,6 +129,9 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [NocoDB](https://www.nocodb.com/) - an open source Airtable alternative
 * [Baserow](https://baserow.io/) - an open source Airtable alternative
+* [Filestash](https://github.com/mickael-kerjean/filestash) - modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze
+* [Fileshelter](https://github.com/epoupon/fileshelter) - “one-click” file sharing web application
+* [Cloudreve](https://github.com/cloudreve/Cloudreve)- self-hosted file management and sharing system, supports multiple storage providers
 
 ### Video Streaming
 
