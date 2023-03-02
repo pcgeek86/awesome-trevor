@@ -5,7 +5,7 @@ This repository contains links to things that Trevor thinks are awesome.
 ### Amazon Web Services (AWS)
 
 * [ConsoleMe](https://github.com/Netflix/consoleme) - open source IAM policy management tool from Netflix
-
+* [Prowler](https://github.com/prowler-cloud/prowler) - open source security tool to perform cloud security best practices assessments
 
 ### ☁️ Cloud Vendors
 
