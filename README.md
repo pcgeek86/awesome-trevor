@@ -136,6 +136,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Transfer.sh](https://github.com/dutchcoders/transfer.sh) - easy and fast file sharing from the command-line
 * [File Browser](https://github.com/filebrowser/filebrowser) - web-based file browser
 * [PsiTransfer](https://github.com/psi-4ward/psitransfer) - simple open source self-hosted file sharing solution
+* [Miniserve](https://github.com/svenstaro/miniserve) - serve some files over HTTP
 
 ### Video Streaming
 
