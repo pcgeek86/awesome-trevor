@@ -314,6 +314,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 * [git-secret](https://github.com/sobolevn/git-secret) - bash-tool to store your private data inside a git repository
 * [Blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git
+* [Transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 
 ### Animation
 
