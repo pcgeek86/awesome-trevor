@@ -312,6 +312,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [AWS CloudFormation Guard](https://github.com/aws-cloudformation/cloudformation-guard) - write policy-as-code using JSON and YAML
 * [Cerbos](https://github.com/cerbos/cerbos) - open source access control policy solution
 * [Trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
+* [git-secret](https://github.com/sobolevn/git-secret) - bash-tool to store your private data inside a git repository
+* [Blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git
 
 ### Animation
 
