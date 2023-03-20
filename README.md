@@ -137,6 +137,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [File Browser](https://github.com/filebrowser/filebrowser) - web-based file browser
 * [PsiTransfer](https://github.com/psi-4ward/psitransfer) - simple open source self-hosted file sharing solution
 * [Miniserve](https://github.com/svenstaro/miniserve) - serve some files over HTTP
+* [Linshare](https://github.com/linagora/linshare) - open source, secure file transfer solution
 
 ### Video Streaming
 
