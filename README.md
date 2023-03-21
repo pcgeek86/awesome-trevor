@@ -377,6 +377,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Go E-charts](https://github.com/go-echarts/go-echarts) - adorable charts library for Golang
 * [D2](https://github.com/terrastruct/d2) - modern diagram scripting language that turns text to diagrams
 * [GJson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
+* [Gorgonia](https://github.com/gorgonia/gorgonia) - library that helps facilitate machine learning in Go
 
 ### JavaScript
 
