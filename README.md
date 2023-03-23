@@ -117,6 +117,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Yolov5](https://github.com/ultralytics/yolov5)
 * [ONNX](https://onnxruntime.ai/)
 * [OpenVino](https://github.com/openvinotoolkit/openvino) - open-source toolkit for optimizing and deploying AI inference
+* [CompreFace](https://github.com/exadel-inc/CompreFace) - free and open-source face recognition system
 
 ### SaaS Tools
 
