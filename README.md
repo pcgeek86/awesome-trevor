@@ -138,6 +138,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [PsiTransfer](https://github.com/psi-4ward/psitransfer) - simple open source self-hosted file sharing solution
 * [Miniserve](https://github.com/svenstaro/miniserve) - serve some files over HTTP
 * [Linshare](https://github.com/linagora/linshare) - open source, secure file transfer solution
+* [Flatnotes](https://github.com/Dullage/flatnotes) - self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage
 
 ### Video Streaming
 
