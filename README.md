@@ -294,7 +294,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit
 * [Drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform 
 * [Dagger](https://github.com/dagger/dagger) - portable devkit for CI/CD pipelines
-* [GoCD](https://github.com/gocd/gocd) - Continuous Delivery server 
+* [GoCD](https://github.com/gocd/gocd) - Continuous Delivery server
+* [Agola](https://github.com/agola-io/agola) - CI/CD redefined
 
 ### Kubernetes: Security
 
@@ -434,6 +435,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [GitBucket](https://github.com/gitbucket/gitbucket) - Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility 
 * [Gitea](https://gitea.io/) - painless self-hosted Git service
 * [OneDev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+* [Forgejo](https://codeberg.org/forgejo/forgejo) - self-hosted lightweight software forge
 
 ### Mobile (Android, iOS)
 
