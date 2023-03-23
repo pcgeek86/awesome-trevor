@@ -379,6 +379,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [D2](https://github.com/terrastruct/d2) - modern diagram scripting language that turns text to diagrams
 * [GJson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 * [Gorgonia](https://github.com/gorgonia/gorgonia) - library that helps facilitate machine learning in Go
+* [Logrus](https://github.com/sirupsen/logrus) - structured, pluggable logging for Go.
 
 ### JavaScript
 
