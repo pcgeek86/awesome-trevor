@@ -296,6 +296,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Dagger](https://github.com/dagger/dagger) - portable devkit for CI/CD pipelines
 * [GoCD](https://github.com/gocd/gocd) - Continuous Delivery server
 * [Agola](https://github.com/agola-io/agola) - CI/CD redefined
+* [CDS](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 
 ### Kubernetes: Security
 
