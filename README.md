@@ -240,6 +240,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Tanka](https://github.com/grafana/tanka)
 * [Helm](https://helm.sh)
 * [Arkade](https://github.com/alexellis/arkade)
+* [Kubeapps](https://github.com/vmware-tanzu/kubeapps/) - web-based UI for deploying and managing applications in Kubernetes clusters
+* [Helm Dashboard](https://github.com/komodorio/helm-dashboard) - missing UI for Helm - visualize your releases
 
 ### Kubernetes: Serverless
 
