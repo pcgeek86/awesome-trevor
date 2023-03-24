@@ -33,7 +33,7 @@ This repository contains links to things that Trevor thinks are awesome.
 ### Email / SMTP
 
 * [Mailhog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
-* 
+
 
 ### 💻 Terminal Emulators
 
@@ -170,6 +170,10 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Popoto.js](http://www.popotojs.com/) - community-driven JS library for creating embeddable visualizations, built on D3.js
 * [Cytoscape](https://cytoscape.org/) -  open source software platform for visualizing complex graph networks
 * [Streamlit](https://github.com/streamlit/streamlit) - open source Python-based framework for building "data apps"
+
+### Analytics
+
+* [PoeticMetric](https://github.com/th0th/poeticmetric) - Golang-based alternative to Google Analytics
 
 ### Databases
 
