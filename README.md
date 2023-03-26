@@ -333,6 +333,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git
 * [Transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 * [Hashicorp Vault](https://github.com/hashicorp/vault) - tool for secrets management, encryption as a service, and privileged access management
+* [Hemmelig](https://github.com/HemmeligOrg/Hemmelig.app) - self-hosted service, keep your sensitive information out of chat logs, emails, and more with encrypted secrets
 
 ### Animation
 
