@@ -331,6 +331,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [git-secret](https://github.com/sobolevn/git-secret) - bash-tool to store your private data inside a git repository
 * [Blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git
 * [Transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
+* [Hashicorp Vault](https://github.com/hashicorp/vault) - tool for secrets management, encryption as a service, and privileged access management
 
 ### Animation
 
