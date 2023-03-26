@@ -213,6 +213,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Bookstack](https://www.bookstackapp.com/)
 * [Nextbook](https://next-book.vercel.app/)
 * [Wiki.js](https://js.wiki/)
+* [Answer](https://github.com/answerdev/answer) - open-source knowledge-based community software
 
 ### Web Development
 
@@ -442,6 +443,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Gitea](https://gitea.io/) - painless self-hosted Git service
 * [OneDev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 * [Forgejo](https://codeberg.org/forgejo/forgejo) - self-hosted lightweight software forge
+* [Fossil](https://www2.fossil-scm.org/home/doc/trunk/www/index.wiki) - simple, high-reliability, distributed software configuration management system 
+* [GitLab](https://gitlab.com) - self-hostable version control system
 
 ### Mobile (Android, iOS)
 
