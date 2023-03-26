@@ -215,6 +215,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Wiki.js](https://js.wiki/)
 * [Answer](https://github.com/answerdev/answer) - open-source knowledge-based community software
 * [Mkdocs](https://github.com/mkdocs/mkdocs) - project documentation with markdown
+* [Outline](https://github.com/outline/outline) - knowledge base for teams. Realtime collaborative, feature packed, and markdown compatible.
 
 ### Web Development
 
