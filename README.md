@@ -142,6 +142,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Linshare](https://github.com/linagora/linshare) - open source, secure file transfer solution
 * [Flatnotes](https://github.com/Dullage/flatnotes) - self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage
 * [Novu](https://github.com/novuhq/novu) - open-source notification infrastructure with fully functional embedded notification center
+* [Photonix](https://github.com/photonixapp/photonix) - self-hosted modern, web-based photo management server
 
 ### Video Streaming
 
