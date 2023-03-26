@@ -214,6 +214,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Nextbook](https://next-book.vercel.app/)
 * [Wiki.js](https://js.wiki/)
 * [Answer](https://github.com/answerdev/answer) - open-source knowledge-based community software
+* [Mkdocs](https://github.com/mkdocs/mkdocs) - project documentation with markdown
 
 ### Web Development
 
