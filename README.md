@@ -74,6 +74,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Shipwright](https://github.com/shipwright-io/build) - build container images on Kubernetes clusters
 * [Kaniko](https://github.com/GoogleContainerTools/kaniko) - build container images in Kubernetes
 * [Podman](https://podman.io/) - daemonless container engine for developing, managing, and running OCI Containers on your Linux System
+* [Harbor](https://github.com/goharbor/harbor) - open source trusted cloud native registry project that stores, signs, and scans content
 
 ### Observability
 
