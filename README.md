@@ -402,6 +402,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Logrus](https://github.com/sirupsen/logrus) - structured, pluggable logging for Go.
 * [Melody](https://github.com/olahol/melody) - minimalist websocket framework for Go
 * [Centrifugo](https://github.com/centrifugal/centrifugo) - scalable real-time messaging server in a language-agnostic way
+* [giu](https://github.com/AllenDang/giu) - cross-platform rapid GUI framework for golang based on Dear ImGui
+* [gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
 
 ### JavaScript
 
