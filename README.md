@@ -400,6 +400,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [GJson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 * [Gorgonia](https://github.com/gorgonia/gorgonia) - library that helps facilitate machine learning in Go
 * [Logrus](https://github.com/sirupsen/logrus) - structured, pluggable logging for Go.
+* [Melody](https://github.com/olahol/melody) - minimalist websocket framework for Go
+* [Centrifugo](https://github.com/centrifugal/centrifugo) - scalable real-time messaging server in a language-agnostic way
 
 ### JavaScript
 
