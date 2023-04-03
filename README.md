@@ -434,6 +434,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [KivyMD](https://github.com/kivymd/KivyMD) - Material Design compliant widgets for use with, Kivy
 * [PyAutoGUI](https://github.com/asweigart/pyautogui) - control the mouse and keyboard to automate interactions with other applications
 * [Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library
+* [JustPy](https://github.com/justpy-org/justpy) - object oriented high-level Python Web Framework that requires no frontend programming
+* [NiceGui](https://github.com/zauberzeug/nicegui/) - create web-based interfaces with Python. The nice way.
 
 ### Application Frameworks
 
