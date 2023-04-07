@@ -404,6 +404,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Centrifugo](https://github.com/centrifugal/centrifugo) - scalable real-time messaging server in a language-agnostic way
 * [giu](https://github.com/AllenDang/giu) - cross-platform rapid GUI framework for golang based on Dear ImGui
 * [gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
+* [pREST](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development
 
 ### JavaScript
 
