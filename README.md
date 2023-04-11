@@ -410,6 +410,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [giu](https://github.com/AllenDang/giu) - cross-platform rapid GUI framework for golang based on Dear ImGui
 * [gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
 * [pREST](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development
+* [oto](https://github.com/hajimehoshi/oto) - low-level library to play sound on multiple platforms
+* [gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend
 
 ### JavaScript
 
