@@ -391,6 +391,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Go-app](https://github.com/murlokswarm/app) - package for building progressive web apps (PWA)
 * [Wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 * [Nucular](https://github.com/aarzilli/nucular) - GUI toolkit for go
+* [GioUI](https://github.com/gioui/gio) - portable, immediate mode GUI in Go
 * [Dagu](https://github.com/yohamta/dagu) - Cron alternative with a Web UI (workflows / DAGs)
 * [SFTP-Go](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 * [Death](https://github.com/vrecan/death) - Managing go application shutdown with signals
