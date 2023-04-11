@@ -100,6 +100,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Caddy](https://github.com/caddyserver/caddy)
 * [frp](https://github.com/fatedier/frp) - fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet
 * [NGINX Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+* [oAuth2 Proxy](https://github.com/oauth2-proxy/oauth2-proxy) - reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers
 
 ### REST APIs
 
@@ -337,6 +338,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Hemmelig](https://github.com/HemmeligOrg/Hemmelig.app) - self-hosted service, keep your sensitive information out of chat logs, emails, and more with encrypted secrets
 * [WebSSH](https://github.com/huashengdun/webssh) - web-based SSH client for remote server access
 * [SimpleWall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer
+
 
 ### Animation
 
