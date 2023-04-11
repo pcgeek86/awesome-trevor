@@ -376,6 +376,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Cobra](https://github.com/spf13/cobra) - library for creating powerful modern CLI applications
 * [Color](https://github.com/gookit/color) - Terminal color rendering library
 * [gCLI](https://github.com/gookit/gcli) - Go CLI application, tool library
+* [CLI](https://github.com/urfave/cli) - simple, fast, and fun package for building command line apps in Go
 * [GoUtil](https://github.com/gookit/goutil) - Helper Utils For Go
 * [Script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 * [Malgo](https://github.com/gen2brain/malgo) - Mini audio library
