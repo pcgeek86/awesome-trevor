@@ -412,6 +412,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [pREST](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development
 * [oto](https://github.com/hajimehoshi/oto) - low-level library to play sound on multiple platforms
 * [gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend
+* [github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 
 ### JavaScript
 
