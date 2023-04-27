@@ -445,6 +445,9 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library
 * [JustPy](https://github.com/justpy-org/justpy) - object oriented high-level Python Web Framework that requires no frontend programming
 * [NiceGui](https://github.com/zauberzeug/nicegui/) - create web-based interfaces with Python. The nice way.
+* [Transcrypt](https://github.com/TranscryptOrg/Transcrypt) - Python 3.9 to JavaScript compiler - Lean, fast, open! 
+* [Brython](https://github.com/brython-dev/brython) - implementation of Python 3 running in the browser
+* [Pyscript](https://github.com/pyscript/pyscript)
 
 ### Application Frameworks
 
