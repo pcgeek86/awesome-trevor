@@ -449,6 +449,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Brython](https://github.com/brython-dev/brython) - implementation of Python 3 running in the browser
 * [Pyscript](https://github.com/pyscript/pyscript) - framework that allows users to create rich Python applications in the browser
 * [Skulpt](https://github.com/skulpt/skulpt) - Javascript implementation of the Python programming language
+* [Pyodide](https://github.com/pyodide/pyodide) - Python distribution for the browser and Node.js based on WebAssembly
 
 ### Application Frameworks
 
