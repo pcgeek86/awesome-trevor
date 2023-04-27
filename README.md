@@ -447,7 +447,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [NiceGui](https://github.com/zauberzeug/nicegui/) - create web-based interfaces with Python. The nice way.
 * [Transcrypt](https://github.com/TranscryptOrg/Transcrypt) - Python 3.9 to JavaScript compiler - Lean, fast, open! 
 * [Brython](https://github.com/brython-dev/brython) - implementation of Python 3 running in the browser
-* [Pyscript](https://github.com/pyscript/pyscript)
+* [Pyscript](https://github.com/pyscript/pyscript) - framework that allows users to create rich Python applications in the browser
+* [Skulpt](https://github.com/skulpt/skulpt) - Javascript implementation of the Python programming language
 
 ### Application Frameworks
 
