@@ -485,3 +485,7 @@ This repository contains links to things that Trevor thinks are awesome.
 ### Mobile (Android, iOS)
 
 * [ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+
+### Chat Software
+
+* [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) - communications platform that puts data protection first
