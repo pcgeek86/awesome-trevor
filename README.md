@@ -94,6 +94,14 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Celery](https://docs.celeryproject.org/en/stable/)
 * [NSQ](https://nsq.io/)
 
+### Testing Tools 🧪
+
+* [Locust](https://locust.io/) - Write scalable load tests in plain Python 🚗💨
+* [K6](https://github.com/grafana/k6) - modern load testing tool, using Go and JavaScript
+* [Siege](https://github.com/JoeDog/siege) - http load tester and benchmarking utility
+* [Artillery](https://github.com/artilleryio/artillery) - Cloud-scale load testing. Fully serverless, test any stack, test at any scale
+* [Gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
+
 ### Reverse Proxy
 
 * [Traefik](https://github.com/traefik/traefik)
