@@ -422,6 +422,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend
 * [github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 * [gopsutil](https://github.com/shirou/gopsutil/) - psutil for golang
+* [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 
 ### JavaScript
 
