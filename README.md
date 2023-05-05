@@ -163,6 +163,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### Video Editing
 
+* [KdenLive](https://github.com/KDE/kdenlive)
 * [OpenShot](https://www.openshot.org/)
 * [Shotcut](https://shotcut.org/)
 * [AviSynth+](https://github.com/AviSynth/AviSynthPlus/) - AviSynth+ is a fork of the well-known frameserver
