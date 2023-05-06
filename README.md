@@ -424,6 +424,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 * [gopsutil](https://github.com/shirou/gopsutil/) - psutil for golang
 * [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
+* [testify](https://github.com/stretchr/testify) - toolkit with common assertions and mocks that plays nicely with the standard library
 
 ### JavaScript
 
