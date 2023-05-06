@@ -428,6 +428,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 * [testify](https://github.com/stretchr/testify) - toolkit with common assertions and mocks that plays nicely with the standard library
 * [gcache](https://github.com/bluele/gcache) - in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC
+* [afero](https://github.com/spf13/afero) - FileSystem Abstraction System for Go
 
 ### JavaScript
 
