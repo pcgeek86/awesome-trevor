@@ -369,6 +369,8 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### Golang
 
+List of popular Go modules that are useful for building applications in Golang.
+
 * [Aero](https://github.com/aerogo/aero) - High-performance web server for Go
 * [Beego](https://github.com/beego/beego) - open-source, high-performance web framework for the Go programming language
 * [Fiber](https://github.com/gofiber/fiber) - Express inspired web framework written in Go
@@ -425,6 +427,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [gopsutil](https://github.com/shirou/gopsutil/) - psutil for golang
 * [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 * [testify](https://github.com/stretchr/testify) - toolkit with common assertions and mocks that plays nicely with the standard library
+* [gcache](https://github.com/bluele/gcache) - in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC
 
 ### JavaScript
 
