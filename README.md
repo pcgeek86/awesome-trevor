@@ -419,16 +419,17 @@ List of popular Go modules that are useful for building applications in Golang.
 * [Melody](https://github.com/olahol/melody) - minimalist websocket framework for Go
 * [Centrifugo](https://github.com/centrifugal/centrifugo) - scalable real-time messaging server in a language-agnostic way
 * [giu](https://github.com/AllenDang/giu) - cross-platform rapid GUI framework for golang based on Dear ImGui
-* [gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
+* [gi](https://github.com/goki/gi) - native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
 * [pREST](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development
 * [oto](https://github.com/hajimehoshi/oto) - low-level library to play sound on multiple platforms
 * [gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend
 * [github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 * [gopsutil](https://github.com/shirou/gopsutil/) - psutil for golang
-* [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
+* [resty](https://github.com/go-resty/resty) - simple HTTP and REST client library for Go
 * [testify](https://github.com/stretchr/testify) - toolkit with common assertions and mocks that plays nicely with the standard library
 * [gcache](https://github.com/bluele/gcache) - in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC
-* [afero](https://github.com/spf13/afero) - FileSystem Abstraction System for Go
+* [afero](https://github.com/spf13/afero) - filesystem abstraction system for Go
+* [gofakeit](https://github.com/brianvoe/gofakeit) - random fake data generator written in go
 
 ### JavaScript
 
