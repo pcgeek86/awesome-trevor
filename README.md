@@ -213,6 +213,11 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Cortex](https://cortexmetrics.io/) - Horizontally scalable, highly available, multi-tenant, long term storage for Prometheus
 * [Prometheus](https://prometheus.io/) - metrics storage engine
 
+### Database Tools
+
+* [Atlas](https://github.com/ariga/atlas) - modern tool for managing database schemas
+* [DBUI](https://github.com/KenanBek/dbui) - Universal Database CLI for MySQL, PostgreSQL, and SQLite. Terminal User Interface Application
+
 ### Documentation
 
 * [Docusaurus](https://docusaurus.io/)
