@@ -435,6 +435,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [gcache](https://github.com/bluele/gcache) - in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC
 * [afero](https://github.com/spf13/afero) - filesystem abstraction system for Go
 * [gofakeit](https://github.com/brianvoe/gofakeit) - random fake data generator written in go
+* [yaegi](https://github.com/traefik/yaegi) - go interpreter (REPL)
 
 ### JavaScript
 
