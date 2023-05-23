@@ -437,7 +437,8 @@ List of popular Go modules that are useful for building applications in Golang.
 * [afero](https://github.com/spf13/afero) - filesystem abstraction system for Go
 * [gofakeit](https://github.com/brianvoe/gofakeit) - random fake data generator written in go
 * [yaegi](https://github.com/traefik/yaegi) - go interpreter (REPL)
-
+* [glfw](https://github.com/go-gl/glfw) - Go bindings for GLFW (OpenGL, Vulkan, etc.)
+ 
 ### JavaScript
 
 * [Playwright](https://github.com/microsoft/playwright) - framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
