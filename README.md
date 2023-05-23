@@ -66,6 +66,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Apache Guacamole](https://guacamole.apache.org/) - open source web-based desktop / remote control client (RDP)
 * [Cloudify](https://github.com/cloudify-cosmo/) - open-source multi-cloud and edge orchestration platform
 * [Apache CloudStack](https://cloudstack.apache.org/) - open source software for deploying public and private Infrastructure-as-a-Service (IaaS) clouds (WebUI, Hyper-V, KVM, VMware ESXi)
+* [Pacemaker](https://github.com/ClusterLabs/pacemaker) - advanced, scalable High-Availability cluster resource manager
 
 ### 🐋 Container Tools
 
@@ -449,6 +450,10 @@ List of popular Go modules that are useful for building applications in Golang.
 * [C3.js](https://c3js.org/) - D3-based reusable chart library
 * [xterm.js](https://github.com/xtermjs/xterm.js/) - terminal for the web
 * [ChakraUI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications
+* [SinonJS](https://github.com/sinonjs/sinon) -  Test spies, stubs and mocks for JavaScript
+* [Mocha](https://github.com/mochajs/mocha) - simple, flexible, fun javascript test framework for node.js & the browser
+* [Jest](https://github.com/jestjs/jest) -  Delightful JavaScript Testing
+* [Chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework
 
 ### Microsoft .NET (dotnet)
 
