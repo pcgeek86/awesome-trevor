@@ -472,6 +472,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [NAudio](https://www.nuget.org/packages/NAudio) - library for working with audio from .NET
 * [LVCharts](https://lvcharts.net/) - charting library for .NET
 * [Spectrogram](https://github.com/swharden/Spectrogram) - create spectrograms (audio visualization) using C# .NET
+* [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui/) - Cross Platform Terminal UI toolkit for .NET
 
 ### PowerShell  <img src="https://raw.github.com/pcgeek86/awesome-trevor/main/assets/powershell.svg?sanitize=true" height=18>
 
