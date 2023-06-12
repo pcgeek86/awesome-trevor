@@ -439,7 +439,11 @@ List of popular Go modules that are useful for building applications in Golang.
 * [gofakeit](https://github.com/brianvoe/gofakeit) - random fake data generator written in go
 * [yaegi](https://github.com/traefik/yaegi) - go interpreter (REPL)
 * [glfw](https://github.com/go-gl/glfw) - Go bindings for GLFW (OpenGL, Vulkan, etc.)
- 
+* [govatar](https://github.com/o1egl/govatar) - avatar generation library for Go language
+* [imaging](https://github.com/disintegration/imaging) - simple image processing package for Go
+* [go-getter](https://github.com/hashicorp/go-getter) - downloading things from a string URL using a variety of protocols (git, http, files, mercurial, etc.)
+
+
 ### JavaScript
 
 * [Playwright](https://github.com/microsoft/playwright) - framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -456,6 +460,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [Mocha](https://github.com/mochajs/mocha) - simple, flexible, fun javascript test framework for node.js & the browser
 * [Jest](https://github.com/jestjs/jest) -  Delightful JavaScript Testing
 * [Chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework
+* [Neutralino](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 
 ### Microsoft .NET (dotnet)
 
