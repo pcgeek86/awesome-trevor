@@ -16,6 +16,11 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Bit.io](https://bit.io/) - Managed Postgres databases (💰 free tier available) 
 
 
+### Desktop Applications
+
+* [Joplin](https://github.com/laurent22/joplin) - open source note taking
+* [XPipe](https://github.com/xpipe-io/xpipe) - remote file browser (SSH, Docker, LXD, Kubernetes, etc.)
+
 ### 🐧 Linux Distributions
 
 * [Ubuntu Studio](https://ubuntustudio.org/) - community effort, created by volunteers, targeted towards all skill levels, from beginner to pro, and aims to be easy to install and easy to use, as well as provide all the tools necessary for any type of media content creation
@@ -442,7 +447,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [govatar](https://github.com/o1egl/govatar) - avatar generation library for Go language
 * [imaging](https://github.com/disintegration/imaging) - simple image processing package for Go
 * [go-getter](https://github.com/hashicorp/go-getter) - downloading things from a string URL using a variety of protocols (git, http, files, mercurial, etc.)
-
+* [hermes](https://github.com/realTristan/Hermes) - Extremely Fast Full-Text-Search Algorithm and Caching System
 
 ### JavaScript
 
