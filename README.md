@@ -491,6 +491,19 @@ List of popular Go modules that are useful for building applications in Golang.
 * [Pyscript](https://github.com/pyscript/pyscript) - framework that allows users to create rich Python applications in the browser
 * [Skulpt](https://github.com/skulpt/skulpt) - Javascript implementation of the Python programming language
 * [Pyodide](https://github.com/pyodide/pyodide) - Python distribution for the browser and Node.js based on WebAssembly
+* [Paramiko](https://github.com/paramiko/paramiko) - leading native Python SSHv2 protocol library
+
+### Rust
+
+* [Yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+* [Tokio](https://github.com/tokio-rs/tokio) - runtime for writing reliable asynchronous applications with Rust
+* [serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
+* [image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
+* [chrono](https://github.com/chronotope/chrono) - date and time library for Rust
+* [regex](https://docs.rs/regex/latest/regex/) - implementation of regular expressions for Rust
+* [reqwest](https://github.com/seanmonstar/reqwest) - HTTP client library, supports async / await, HTTPS, proxies, cookies
+
+
 
 ### Application Frameworks
 
