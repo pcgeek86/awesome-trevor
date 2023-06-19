@@ -502,8 +502,8 @@ List of popular Go modules that are useful for building applications in Golang.
 * [chrono](https://github.com/chronotope/chrono) - date and time library for Rust
 * [regex](https://docs.rs/regex/latest/regex/) - implementation of regular expressions for Rust
 * [reqwest](https://github.com/seanmonstar/reqwest) - HTTP client library, supports async / await, HTTPS, proxies, cookies
-
-
+* [Dioxus](https://github.com/dioxuslabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more
+* [Leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 
 ### Application Frameworks
 
