@@ -504,6 +504,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [reqwest](https://github.com/seanmonstar/reqwest) - HTTP client library, supports async / await, HTTPS, proxies, cookies
 * [Dioxus](https://github.com/dioxuslabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more
 * [Leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+* [Cursive](https://github.com/gyscos/cursive) - Text User Interface library for the Rust programming language
 
 ### Application Frameworks
 
@@ -517,6 +518,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file (Golang)
 * [Supabase](https://github.com/supabase/supabase) - open source Firebase alternative (Typescript)
 * [Budibase](https://github.com/Budibase/budibase) - low code platform for creating internal tools, workflows, and admin panels in minutes
+* [Windmill](https://github.com/windmill-labs/windmill/) - open-source developer platform to turn scripts into workflows and UIs
 
 ### Version Control
 
