@@ -466,6 +466,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [Jest](https://github.com/jestjs/jest) -  Delightful JavaScript Testing
 * [Chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework
 * [Neutralino](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
+* [RedwoodJS](https://github.com/redwoodjs/redwood) - opinionated, full-stack, JavaScript/TypeScript web application framework designed to keep you moving fast
 
 ### Microsoft .NET (dotnet)
 
