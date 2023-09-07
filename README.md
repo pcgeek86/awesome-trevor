@@ -144,8 +144,10 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### Open Source Services
 
+* [Airbyte](https://github.com/airbytehq/airbyte) - data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes
 * [NocoDB](https://www.nocodb.com/) - an open source Airtable alternative
 * [Baserow](https://baserow.io/) - an open source Airtable alternative
+* [CodiMD](https://github.com/hackmdio/codimd) - collaborate in real-time with markdown
 * [Filestash](https://github.com/mickael-kerjean/filestash) - modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze
 * [Fileshelter](https://github.com/epoupon/fileshelter) - “one-click” file sharing web application
 * [Cloudreve](https://github.com/cloudreve/Cloudreve)- self-hosted file management and sharing system, supports multiple storage providers
@@ -158,6 +160,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Flatnotes](https://github.com/Dullage/flatnotes) - self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage
 * [Novu](https://github.com/novuhq/novu) - open-source notification infrastructure with fully functional embedded notification center
 * [Photonix](https://github.com/photonixapp/photonix) - self-hosted modern, web-based photo management server
+
 
 ### Video Streaming
 
@@ -328,6 +331,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Agola](https://github.com/agola-io/agola) - CI/CD redefined
 * [CDS](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 * [Woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system
+* [Agola](https://github.com/agola-io/agola) - open source CI/CD solution
 
 ### Kubernetes: Security
 
