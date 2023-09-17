@@ -145,21 +145,22 @@ This repository contains links to things that Trevor thinks are awesome.
 ### Open Source Services
 
 * [Airbyte](https://github.com/airbytehq/airbyte) - data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes
-* [NocoDB](https://www.nocodb.com/) - an open source Airtable alternative
 * [Baserow](https://baserow.io/) - an open source Airtable alternative
+* [Cloudreve](https://github.com/cloudreve/Cloudreve)- self-hosted file management and sharing system, supports multiple storage providers
 * [CodiMD](https://github.com/hackmdio/codimd) - collaborate in real-time with markdown
+* [File Browser](https://github.com/filebrowser/filebrowser) - web-based file browser
 * [Filestash](https://github.com/mickael-kerjean/filestash) - modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze
 * [Fileshelter](https://github.com/epoupon/fileshelter) - “one-click” file sharing web application
-* [Cloudreve](https://github.com/cloudreve/Cloudreve)- self-hosted file management and sharing system, supports multiple storage providers
-* [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
-* [Transfer.sh](https://github.com/dutchcoders/transfer.sh) - easy and fast file sharing from the command-line
-* [File Browser](https://github.com/filebrowser/filebrowser) - web-based file browser
-* [PsiTransfer](https://github.com/psi-4ward/psitransfer) - simple open source self-hosted file sharing solution
-* [Miniserve](https://github.com/svenstaro/miniserve) - serve some files over HTTP
-* [Linshare](https://github.com/linagora/linshare) - open source, secure file transfer solution
 * [Flatnotes](https://github.com/Dullage/flatnotes) - self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage
+* [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
+* [Linshare](https://github.com/linagora/linshare) - open source, secure file transfer solution
+* [Miniserve](https://github.com/svenstaro/miniserve) - serve some files over HTTP
+* [NocoDB](https://www.nocodb.com/) - an open source Airtable alternative
 * [Novu](https://github.com/novuhq/novu) - open-source notification infrastructure with fully functional embedded notification center
+* [osTicket](https://github.com/osTicket/osTicket) - open source ticketing system
 * [Photonix](https://github.com/photonixapp/photonix) - self-hosted modern, web-based photo management server
+* [PsiTransfer](https://github.com/psi-4ward/psitransfer) - simple open source self-hosted file sharing solution
+* [Transfer.sh](https://github.com/dutchcoders/transfer.sh) - easy and fast file sharing from the command-line
 
 
 ### Video Streaming
