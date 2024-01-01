@@ -90,7 +90,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Graylog](https://github.com/Graylog2/graylog2-server) - log management solution
 * [Zinc](https://github.com/zinclabs/zinc) - lightweight alternative to elasticsearch that requires minimal resources
 * [Gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-
+* [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics framework
 
 ### 📨 Messaging
 
