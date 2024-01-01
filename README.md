@@ -278,6 +278,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Arkade](https://github.com/alexellis/arkade)
 * [Kubeapps](https://github.com/vmware-tanzu/kubeapps/) - web-based UI for deploying and managing applications in Kubernetes clusters
 * [Helm Dashboard](https://github.com/komodorio/helm-dashboard) - missing UI for Helm - visualize your releases
+* [Devtron](https://github.com/devtron-labs/devtron) - helps you deploy, observe, manage & debug existing Helm apps in all your clusters
 
 ### Kubernetes: Serverless
 
