@@ -286,6 +286,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 * [OpenFaaS](https://github.com/openfaas/faas)
 * [FaaS-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
+* [Apache OpenWhisk](https://github.com/apache/openwhisk) - open source serverless cloud platform
 
 ### Kubernetes: Distributions
 
