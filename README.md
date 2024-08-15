@@ -9,12 +9,10 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### ☁️ Cloud Vendors
 
-* Digital Ocean
+* [Digital Ocean](https://m.do.co/c/ef54acbd808d) - Excellent cloud provider to spin up Linux VMs, Kubernetes clusters, S3-compatible storage, container apps, etc.
 * Linode
-* Vultr
+* [Vultr](https://www.vultr.com/?ref=9068486)
 * [MaaS](https://maas.io/) - Metal as a Service from Canonical / Ubuntu
-* [Bit.io](https://bit.io/) - Managed Postgres databases (💰 free tier available) 
-
 
 ### Desktop Applications
 
