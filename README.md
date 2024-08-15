@@ -203,6 +203,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [ArangoDB](https://github.com/arangodb/arangodb) - native multi-model database with flexible data models for documents, graphs, and key-values
 * [DGraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 * [MySQL](https://mysql.com)
+* [MariaDB](https://github.com/MariaDB/server) - fork of MySQL
 * [PostgreSQL](https://www.postgresql.org/)
 * [MongoDB](https://www.mongodb.com/)
 * [TiDB](https://pingcap.com/tidb/) - open source, distributed, time-series database developed by PingCAP
