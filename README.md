@@ -502,6 +502,7 @@ List of popular Go modules that are useful for building applications in Golang.
 
 ### Rust
 
+* [Tonbo](https://github.com/tonbo-io/tonbo) - embedded, persistent key-value database for Rust, using Apache Arrow
 * [Yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 * [Tokio](https://github.com/tokio-rs/tokio) - runtime for writing reliable asynchronous applications with Rust
 * [serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
