@@ -506,6 +506,8 @@ List of popular Go modules that are useful for building applications in Golang.
 * [Yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 * [Tokio](https://github.com/tokio-rs/tokio) - runtime for writing reliable asynchronous applications with Rust
 * [serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
+* [inquire](https://github.com/mikaelmello/inquire) - interactive terminal prompt for user input
+* [axum](https://github.com/tokio-rs/axum) - popular web framework for Rust from the Tokio async folks
 * [image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 * [chrono](https://github.com/chronotope/chrono) - date and time library for Rust
 * [regex](https://docs.rs/regex/latest/regex/) - implementation of regular expressions for Rust
