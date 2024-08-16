@@ -32,6 +32,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 * [Sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 * [Viddy](https://github.com/sachaos/viddy) - modern watch command. Time machine and pager etc.\
+* [trippy](https://github.com/fujiapple852/trippy) - network diagnostic tool
 
 ### Email / SMTP
 
@@ -515,6 +516,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [Dioxus](https://github.com/dioxuslabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more
 * [Leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 * [Cursive](https://github.com/gyscos/cursive) - Text User Interface library for the Rust programming language
+* [rust_pixel](https://github.com/zipxing/rust_pixel) - Rust 2d game engine, mini-games&app, support terminal, sdl, web modes
 
 ### Application Frameworks
 
