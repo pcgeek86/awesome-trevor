@@ -6,6 +6,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [ConsoleMe](https://github.com/Netflix/consoleme) - open source IAM policy management tool from Netflix
 * [Prowler](https://github.com/prowler-cloud/prowler) - open source security tool to perform cloud security best practices assessments
+* [mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - mount S3 bucket as local filesystem
 
 ### ☁️ Cloud Vendors
 
