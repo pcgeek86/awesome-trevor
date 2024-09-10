@@ -135,6 +135,11 @@ This repository contains links to things that Trevor thinks are awesome.
 * [OpenVino](https://github.com/openvinotoolkit/openvino) - open-source toolkit for optimizing and deploying AI inference
 * [CompreFace](https://github.com/exadel-inc/CompreFace) - free and open-source face recognition system
 
+### 👓 Computer Vision
+
+* [AutoDistill](https://github.com/autodistill/autodistill) - Images to inference with no labeling
+* [YOLOv8](https://github.com/ultralytics/ultralytics) - Ultralytics computer vision model
+
 ### SaaS Tools
 
 * Asana
