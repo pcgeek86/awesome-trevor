@@ -526,6 +526,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [Leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 * [Cursive](https://github.com/gyscos/cursive) - Text User Interface library for the Rust programming language
 * [rust_pixel](https://github.com/zipxing/rust_pixel) - Rust 2d game engine, mini-games&app, support terminal, sdl, web modes
+* [RustViz](https://github.com/rustviz/rustviz) - Interactively visualizing ownership and borrowing for Rust
 
 ### Application Frameworks
 
