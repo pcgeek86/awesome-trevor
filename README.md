@@ -139,6 +139,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [AutoDistill](https://github.com/autodistill/autodistill) - Images to inference with no labeling
 * [YOLOv8](https://github.com/ultralytics/ultralytics) - Ultralytics computer vision model
+* [FiftyOne](https://github.com/voxel51/fiftyone) - open-source tool for building high-quality datasets and computer vision models
 
 ### SaaS Tools
 
