@@ -175,6 +175,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [FFmpeg](https://github.com/FFmpeg/FFmpeg)
 * [Kurento Media Server](http://www.kurento.org/) - open source WebRTC media streaming server
 * [Node Media Server](https://github.com/illuspas/Node-Media-Server/) - Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
+* [CasparCG](https://casparcg.com/) - Windows and Linux software used to play out professional graphics, audio and video to multiple outputs
+* [NodeCG](https://www.nodecg.dev/) - Create broadcast graphics using Node.js and a browser
 
 ### Video Editing
 
