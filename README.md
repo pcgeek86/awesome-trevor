@@ -134,6 +134,9 @@ This repository contains links to things that Trevor thinks are awesome.
 * [ONNX](https://onnxruntime.ai/)
 * [OpenVino](https://github.com/openvinotoolkit/openvino) - open-source toolkit for optimizing and deploying AI inference
 * [CompreFace](https://github.com/exadel-inc/CompreFace) - free and open-source face recognition system
+* [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs
+* [Ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models (OpenAI compatible REST API)
+* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface
 
 ### 👓 Computer Vision
 
