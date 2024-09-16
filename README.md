@@ -172,7 +172,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Photonix](https://github.com/photonixapp/photonix) - self-hosted modern, web-based photo management server
 * [PsiTransfer](https://github.com/psi-4ward/psitransfer) - simple open source self-hosted file sharing solution
 * [Transfer.sh](https://github.com/dutchcoders/transfer.sh) - easy and fast file sharing from the command-line
-
+* [Rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 
 ### Video Streaming
 
@@ -222,7 +222,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [TiDB](https://pingcap.com/tidb/) - open source, distributed, time-series database developed by PingCAP
 * [TimescaleDB](https://www.timescale.com/)
 * [InfluxDB](https://github.com/influxdata/influxdb) - open source, time-series database engine with built-in charting / dashboards via WebUI, developed by InfluxData
-* [Neo4j](https://neo4j.com/)
+* [Neo4j](https://neo4j.com/) - graph database engine
 * [RethinkDB](https://rethinkdb.com/)
 * [Cassandra](https://cassandra.apache.org/_/index.html)
 * [Redis](https://redis.io) - high performance, in-memory key-value storage (modules for Graph, Time-Series, JSON, etc.)
@@ -532,6 +532,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [Cursive](https://github.com/gyscos/cursive) - Text User Interface library for the Rust programming language
 * [rust_pixel](https://github.com/zipxing/rust_pixel) - Rust 2d game engine, mini-games&app, support terminal, sdl, web modes
 * [RustViz](https://github.com/rustviz/rustviz) - Interactively visualizing ownership and borrowing for Rust
+* [ratatui](https://github.com/ratatui/ratatui) - Rust crate for cooking up terminal user interfaces (TUIs)
 
 ### Application Frameworks
 
