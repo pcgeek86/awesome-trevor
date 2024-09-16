@@ -159,6 +159,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Baserow](https://baserow.io/) - an open source Airtable alternative
 * [Cloudreve](https://github.com/cloudreve/Cloudreve)- self-hosted file management and sharing system, supports multiple storage providers
 * [CodiMD](https://github.com/hackmdio/codimd) - collaborate in real-time with markdown
+* [Docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents
 * [File Browser](https://github.com/filebrowser/filebrowser) - web-based file browser
 * [Filestash](https://github.com/mickael-kerjean/filestash) - modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze
 * [Fileshelter](https://github.com/epoupon/fileshelter) - “one-click” file sharing web application
