@@ -183,6 +183,8 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Node Media Server](https://github.com/illuspas/Node-Media-Server/) - Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 * [CasparCG](https://casparcg.com/) - Windows and Linux software used to play out professional graphics, audio and video to multiple outputs
 * [NodeCG](https://www.nodecg.dev/) - Create broadcast graphics using Node.js and a browser
+* [Owncast](https://github.com/owncast/owncast) - open source RTMP streaming server (similar to Twitch, YouTube)
+* [GStreamer](https://github.com/GStreamer/gstreamer) - framework for streaming media
 
 ### Video Editing
 
