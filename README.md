@@ -165,6 +165,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Fileshelter](https://github.com/epoupon/fileshelter) - “one-click” file sharing web application
 * [Flatnotes](https://github.com/Dullage/flatnotes) - self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage
 * [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
+* [Kestra](https://github.com/kestra-io/kestra) - scalable, event-driven, language-agnostic orchestration and scheduling platform to manage workflows declaratively in code
 * [Linshare](https://github.com/linagora/linshare) - open source, secure file transfer solution
 * [Miniserve](https://github.com/svenstaro/miniserve) - serve some files over HTTP
 * [NocoDB](https://www.nocodb.com/) - an open source Airtable alternative
