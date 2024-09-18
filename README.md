@@ -139,6 +139,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs
 * [Ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models (OpenAI compatible REST API)
 * [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface
+* [ClearML](https://github.com/allegroai/clearml) - Auto-Magical CI/CD to streamline your AI workload
 
 ### 👓 Computer Vision
 
