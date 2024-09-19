@@ -445,7 +445,6 @@ List of popular Go modules that are useful for building applications in Golang.
 * [Nucular](https://github.com/aarzilli/nucular) - GUI toolkit for go
 * [GioUI](https://github.com/gioui/gio) - portable, immediate mode GUI in Go
 * [Dagu](https://github.com/yohamta/dagu) - Cron alternative with a Web UI (workflows / DAGs)
-* [SFTP-Go](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 * [Death](https://github.com/vrecan/death) - Managing go application shutdown with signals
 * [Lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 * [Glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
@@ -554,6 +553,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [Supabase](https://github.com/supabase/supabase) - open source Firebase alternative (Typescript)
 * [Budibase](https://github.com/Budibase/budibase) - low code platform for creating internal tools, workflows, and admin panels in minutes
 * [Windmill](https://github.com/windmill-labs/windmill/) - open-source developer platform to turn scripts into workflows and UIs
+* [nHost](https://github.com/nhost/nhost) - open source Firebase alternative with GraphQL
 
 ### Version Control
 
@@ -572,3 +572,11 @@ List of popular Go modules that are useful for building applications in Golang.
 ### Chat Software
 
 * [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) - communications platform that puts data protection first
+
+### Storage
+
+* [Garage](https://garagehq.deuxfleurs.fr/) - open-source distributed object storage service tailored for self-hosting
+* [SFTP-Go](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+* [minio](https://github.com/minio/minio) - high-performance, S3 compatible object store, open sourced
+* [Ceph](https://github.com/ceph/ceph) - distributed object, block, and file storage platform
+* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - fast distributed storage system for blobs, objects, files
