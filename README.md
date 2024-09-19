@@ -132,8 +132,9 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### 🧠 Machine Learning
 
+* [Autogen](https://github.com/microsoft/autogen) - programming framework for agentic AI
 * [Yolov5](https://github.com/ultralytics/yolov5)
-* [ONNX](https://onnxruntime.ai/)
+* [ONNX](https://onnxruntime.ai/) - Open standard for machine learning interoperability
 * [OpenVino](https://github.com/openvinotoolkit/openvino) - open-source toolkit for optimizing and deploying AI inference
 * [CompreFace](https://github.com/exadel-inc/CompreFace) - free and open-source face recognition system
 * [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs
