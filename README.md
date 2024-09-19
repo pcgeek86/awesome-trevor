@@ -188,6 +188,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [NodeCG](https://www.nodecg.dev/) - Create broadcast graphics using Node.js and a browser
 * [Owncast](https://github.com/owncast/owncast) - open source RTMP streaming server (similar to Twitch, YouTube)
 * [GStreamer](https://github.com/GStreamer/gstreamer) - framework for streaming media
+* [Aitum](https://aitum.tv/products/multi) - stream video to multiple platforms simultaneously from OBS
 
 ### Video Editing
 
@@ -522,6 +523,7 @@ List of popular Go modules that are useful for building applications in Golang.
 
 ### Rust
 
+* [Tonic](https://github.com/hyperium/tonic) - native gRPC client & server implementation with async/await support
 * [Tonbo](https://github.com/tonbo-io/tonbo) - embedded, persistent key-value database for Rust, using Apache Arrow
 * [Yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 * [Tokio](https://github.com/tokio-rs/tokio) - runtime for writing reliable asynchronous applications with Rust
