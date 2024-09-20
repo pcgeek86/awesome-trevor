@@ -519,23 +519,24 @@ List of popular Go modules that are useful for building applications in Golang.
 
 ### Rust 🦀
 
-* [Tonic](https://github.com/hyperium/tonic) - native gRPC client & server implementation with async/await support
-* [Tonbo](https://github.com/tonbo-io/tonbo) - embedded, persistent key-value database for Rust, using Apache Arrow
-* [Yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
-* [Tokio](https://github.com/tokio-rs/tokio) - runtime for writing reliable asynchronous applications with Rust
-* [serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
-* [inquire](https://github.com/mikaelmello/inquire) - interactive terminal prompt for user input
 * [axum](https://github.com/tokio-rs/axum) - popular web framework for Rust from the Tokio async folks
-* [image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 * [chrono](https://github.com/chronotope/chrono) - date and time library for Rust
+* [Cursive](https://github.com/gyscos/cursive) - Text User Interface library for the Rust programming language
+* [Dioxus](https://github.com/dioxuslabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more
+* [image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
+* [inquire](https://github.com/mikaelmello/inquire) - interactive terminal prompt for user input
+* [Leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+* [neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules
 * [regex](https://docs.rs/regex/latest/regex/) - implementation of regular expressions for Rust
 * [reqwest](https://github.com/seanmonstar/reqwest) - HTTP client library, supports async / await, HTTPS, proxies, cookies
-* [Dioxus](https://github.com/dioxuslabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more
-* [Leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-* [Cursive](https://github.com/gyscos/cursive) - Text User Interface library for the Rust programming language
 * [rust_pixel](https://github.com/zipxing/rust_pixel) - Rust 2d game engine, mini-games&app, support terminal, sdl, web modes
-* [RustViz](https://github.com/rustviz/rustviz) - Interactively visualizing ownership and borrowing for Rust
 * [ratatui](https://github.com/ratatui/ratatui) - Rust crate for cooking up terminal user interfaces (TUIs)
+* [RustViz](https://github.com/rustviz/rustviz) - Interactively visualizing ownership and borrowing for Rust
+* [serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
+* [Tokio](https://github.com/tokio-rs/tokio) - runtime for writing reliable asynchronous applications with Rust
+* [Tonbo](https://github.com/tonbo-io/tonbo) - embedded, persistent key-value database for Rust, using Apache Arrow
+* [Tonic](https://github.com/hyperium/tonic) - native gRPC client & server implementation with async/await support
+* [Yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 
 ### Rust CLI Tools 🦀
 
