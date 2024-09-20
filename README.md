@@ -172,11 +172,12 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Miniserve](https://github.com/svenstaro/miniserve) - serve some files over HTTP
 * [NocoDB](https://www.nocodb.com/) - an open source Airtable alternative
 * [Novu](https://github.com/novuhq/novu) - open-source notification infrastructure with fully functional embedded notification center
+* [Rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 * [osTicket](https://github.com/osTicket/osTicket) - open source ticketing system
 * [Photonix](https://github.com/photonixapp/photonix) - self-hosted modern, web-based photo management server
 * [PsiTransfer](https://github.com/psi-4ward/psitransfer) - simple open source self-hosted file sharing solution
 * [Transfer.sh](https://github.com/dutchcoders/transfer.sh) - easy and fast file sharing from the command-line
-* [Rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
+* [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 
 ### Video Streaming
 
@@ -368,6 +369,7 @@ This repository contains links to things that Trevor thinks are awesome.
 ### ⚠️ Monitoring / Notification Tools 
 
 * [Grafana OnCall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
+* [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative
 
 ### Security Tools
 
