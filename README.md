@@ -401,11 +401,6 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [Apache APISIX](https://apisix.apache.org/) - Full Lifecycle API Management, rich traffic management features like Load Balancing, Dynamic Upstream, Canary Release, Circuit Breaking, Authentication, Observability, etc.
 
-### Microsoft .NET (DotNet)
-
-* [Chromely](https://github.com/chromelyapps/Chromely) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
-
-
 ### Golang
 
 List of popular Go modules that are useful for building applications in Golang.
@@ -497,7 +492,8 @@ List of popular Go modules that are useful for building applications in Golang.
 
 ### Microsoft .NET (dotnet)
 
-* [NAudio](https://www.nuget.org/packages/NAudio) - library for working with audio from .NET
+* [Chromely](https://github.com/chromelyapps/Chromely) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
+* [NAudio](https://github.com/naudio/NAudio) - library for working with audio from .NET
 * [LVCharts](https://lvcharts.net/) - charting library for .NET
 * [Spectrogram](https://github.com/swharden/Spectrogram) - create spectrograms (audio visualization) using C# .NET
 * [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui/) - Cross Platform Terminal UI toolkit for .NET
@@ -521,7 +517,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [Pyodide](https://github.com/pyodide/pyodide) - Python distribution for the browser and Node.js based on WebAssembly
 * [Paramiko](https://github.com/paramiko/paramiko) - leading native Python SSHv2 protocol library
 
-### Rust
+### Rust 🦀
 
 * [Tonic](https://github.com/hyperium/tonic) - native gRPC client & server implementation with async/await support
 * [Tonbo](https://github.com/tonbo-io/tonbo) - embedded, persistent key-value database for Rust, using Apache Arrow
@@ -540,6 +536,8 @@ List of popular Go modules that are useful for building applications in Golang.
 * [rust_pixel](https://github.com/zipxing/rust_pixel) - Rust 2d game engine, mini-games&app, support terminal, sdl, web modes
 * [RustViz](https://github.com/rustviz/rustviz) - Interactively visualizing ownership and borrowing for Rust
 * [ratatui](https://github.com/ratatui/ratatui) - Rust crate for cooking up terminal user interfaces (TUIs)
+
+### Rust CLI Tools 🦀
 
 ### Application Frameworks
 
