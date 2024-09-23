@@ -173,6 +173,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [NocoDB](https://www.nocodb.com/) - an open source Airtable alternative
 * [Novu](https://github.com/novuhq/novu) - open-source notification infrastructure with fully functional embedded notification center
 * [Rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
+* [RustDesk](https://github.com/rustdesk/rustdesk) - open-source remote desktop application designed for self-hosting
 * [osTicket](https://github.com/osTicket/osTicket) - open source ticketing system
 * [Photonix](https://github.com/photonixapp/photonix) - self-hosted modern, web-based photo management server
 * [PsiTransfer](https://github.com/psi-4ward/psitransfer) - simple open source self-hosted file sharing solution
