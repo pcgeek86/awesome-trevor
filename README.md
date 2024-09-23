@@ -155,6 +155,14 @@ This repository contains links to things that Trevor thinks are awesome.
 * Monday
 * Airtable
 
+### Authentication Services
+
+* [Authelia](https://github.com/authelia/authelia) - Single Sign-On Multi-Factor portal for web apps
+* [Authentik](https://github.com/goauthentik/authentik) - open-source Identity Provider that emphasizes flexibility and versatility
+* [Kanidm](https://github.com/kanidm/kanidm) - simple, secure and fast identity management platform
+* [Keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
+* [Zitadel](https://github.com/zitadel/zitadel) - identity / user management service
+
 ### Open Source Services
 
 * [Airbyte](https://github.com/airbytehq/airbyte) - data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes
@@ -179,6 +187,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [PsiTransfer](https://github.com/psi-4ward/psitransfer) - simple open source self-hosted file sharing solution
 * [Rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 * [RustDesk](https://github.com/rustdesk/rustdesk) - open-source remote desktop application designed for self-hosting
+* [Technitium DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - open source DNS server
 * [Transfer.sh](https://github.com/dutchcoders/transfer.sh) - easy and fast file sharing from the command-line
 * [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 * [Zammad](https://github.com/zammad/zammad) - web based open source helpdesk/customer support system
