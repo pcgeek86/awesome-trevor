@@ -166,19 +166,22 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Filestash](https://github.com/mickael-kerjean/filestash) - modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze
 * [Fileshelter](https://github.com/epoupon/fileshelter) - “one-click” file sharing web application
 * [Flatnotes](https://github.com/Dullage/flatnotes) - self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage
+* [FreeScout](https://github.com/freescout-help-desk/freescout) - super lightweight and powerful free open source help desk and shared inbox
 * [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 * [Kestra](https://github.com/kestra-io/kestra) - scalable, event-driven, language-agnostic orchestration and scheduling platform to manage workflows declaratively in code
 * [Linshare](https://github.com/linagora/linshare) - open source, secure file transfer solution
 * [Miniserve](https://github.com/svenstaro/miniserve) - serve some files over HTTP
 * [NocoDB](https://www.nocodb.com/) - an open source Airtable alternative
 * [Novu](https://github.com/novuhq/novu) - open-source notification infrastructure with fully functional embedded notification center
-* [Rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
-* [RustDesk](https://github.com/rustdesk/rustdesk) - open-source remote desktop application designed for self-hosting
 * [osTicket](https://github.com/osTicket/osTicket) - open source ticketing system
 * [Photonix](https://github.com/photonixapp/photonix) - self-hosted modern, web-based photo management server
+* [Plane](https://github.com/makeplane/plane) - track your issues, epics, and product roadmaps 
 * [PsiTransfer](https://github.com/psi-4ward/psitransfer) - simple open source self-hosted file sharing solution
+* [Rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
+* [RustDesk](https://github.com/rustdesk/rustdesk) - open-source remote desktop application designed for self-hosting
 * [Transfer.sh](https://github.com/dutchcoders/transfer.sh) - easy and fast file sharing from the command-line
 * [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
+* [Zammad](https://github.com/zammad/zammad) - web based open source helpdesk/customer support system
 
 ### Video Streaming
 
