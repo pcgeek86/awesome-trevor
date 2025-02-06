@@ -145,6 +145,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### 🧠 AI Frameworks
 
+* [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 * [OpenHands](https://github.com/All-Hands-AI/OpenHands) - platform for software development agents powered by AI (formerly OpenDevin)
 * [Claude-Engineer](https://github.com/Doriandarko/claude-engineer) - interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks
 * [aider](https://github.com/Aider-AI/aider) - AI pair programming in your terminal
