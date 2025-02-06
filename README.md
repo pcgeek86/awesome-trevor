@@ -143,7 +143,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [ClearML](https://github.com/allegroai/clearml) - Auto-Magical CI/CD to streamline your AI workload
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI) - leading creative engine for Stable Diffusion models
 
-## 🧠 AI Frameworks
+### 🧠 AI Frameworks
 
 * [OpenHands](https://github.com/All-Hands-AI/OpenHands) - platform for software development agents powered by AI (formerly OpenDevin)
 * [Claude-Engineer](https://github.com/Doriandarko/claude-engineer) - interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks
