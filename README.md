@@ -564,6 +564,8 @@ List of popular Go modules that are useful for building applications in Golang.
 
 ### Rust CLI Tools 🦀
 
+* [flamelens](https://github.com/YS-L/flamelens) - Flamegraph viewer in the terminal
+
 ### Application Frameworks
 
 * [Tauri](https://tauri.app/) - Build smaller, faster, and more secure desktop applications with a web frontend
