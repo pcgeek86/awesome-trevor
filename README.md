@@ -552,6 +552,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules
 * [regex](https://docs.rs/regex/latest/regex/) - implementation of regular expressions for Rust
 * [reqwest](https://github.com/seanmonstar/reqwest) - HTTP client library, supports async / await, HTTPS, proxies, cookies
+* [rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 * [rust_pixel](https://github.com/zipxing/rust_pixel) - Rust 2d game engine, mini-games&app, support terminal, sdl, web modes
 * [ratatui](https://github.com/ratatui/ratatui) - Rust crate for cooking up terminal user interfaces (TUIs)
 * [RustViz](https://github.com/rustviz/rustviz) - Interactively visualizing ownership and borrowing for Rust
