@@ -118,8 +118,10 @@ This repository contains links to things that Trevor thinks are awesome.
 * [NGINX Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 * [oAuth2 Proxy](https://github.com/oauth2-proxy/oauth2-proxy) - reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers
 
-### REST APIs
+### REST APIs / Web Services
 
+* [Tavily](https://tavily.com/) - connect Large Language Models (LLM) to the web with search results
+* [SerpAPI](https://serpapi.com/) - alternative to Google Search, lower costs
 * [OpenWeatherMap](https://openweathermap.org/api) - get weather data for your town
 * [Airtable](https://airtable.com)
 
