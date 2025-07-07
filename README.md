@@ -29,13 +29,14 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### General Purpose CLI Tools
 
+* [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 * [fm](https://github.com/knipferrc/fm) - A terminal based file manager
 * [fman](https://github.com/nore-dev/fman) - TUI File Manager
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager
-* [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
+* [ov](https://github.com/noborus/ov) - an open source data paging tool (similar to less?)
 * [Sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-* [Viddy](https://github.com/sachaos/viddy) - modern watch command. Time machine and pager etc.\
 * [trippy](https://github.com/fujiapple852/trippy) - network diagnostic tool
+* [Viddy](https://github.com/sachaos/viddy) - modern watch command. Time machine and pager etc.\
 
 ### Email / SMTP
 
