@@ -87,6 +87,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### Observability
 
+* [Dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers. Supports Docker, Swarm and K8s
 * [Telegraf](https://github.com/influxdata/telegraf) - open source, plugin-based metrics gathering, processing, and forwarding agent (CPU, Memory, Disk, SNMP, ICMP, HTTP, exec, etc.)
 * [Vector](https://vector.dev/) - open source log management tool from DataDog, similar to Fluentd
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - logging infrastructure
