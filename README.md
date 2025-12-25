@@ -14,6 +14,17 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Toad](https://github.com/batrachianai/toad) - unified interface for AI in your terminal
 * [Vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 
+### AI Agents GUI
+
+* [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,
+* [Cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more
+* [Continue.dev](https://github.com/continuedev/continue) - Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+* [Goose](https://github.com/block/goose) - open source, extensible AI agent that goes beyond code suggestions
+* [Jan](https://github.com/janhq/jan) - open source alternative to ChatGPT that runs 100% offline on your computer
+* [LlamaFarm](https://github.com/llama-farm/llamafarm) - Deploy any AI model, agent, database, RAG, and pipeline locally or remotely in minutes
+* [LM Studio](https://lmstudio.ai/) - Local AI, on Your Computer
+* [Ollama](https://github.com/ollama/ollama)
+
 ### Amazon Web Services (AWS)
 
 * [ConsoleMe](https://github.com/Netflix/consoleme) - open source IAM policy management tool from Netflix
