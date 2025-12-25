@@ -2,6 +2,18 @@
 
 This repository contains links to things that Trevor thinks are awesome.
 
+### AI Agents
+
+* [aider](https://github.com/Aider-AI/aider) - AI pair programming in your terminal
+* [Claude Code](https://github.com/anthropics/claude-code) - agentic coding tool that lives in your terminal
+* [codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+* [crush](https://github.com/charmbracelet/crush) - glamourous AI coding agent for your favourite terminal
+* [Forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+* [Gemini](https://github.com/google-gemini/gemini-cli) - open-source AI agent that brings the power of Gemini directly into your terminal.
+* [OpenCode](https://github.com/sst/opencode) - open source coding agent
+* [Toad](https://github.com/batrachianai/toad) - unified interface for AI in your terminal
+* [Vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
+
 ### Amazon Web Services (AWS)
 
 * [ConsoleMe](https://github.com/Netflix/consoleme) - open source IAM policy management tool from Netflix
