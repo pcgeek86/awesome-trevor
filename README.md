@@ -274,6 +274,7 @@ This repository contains links to things that Trevor thinks are awesome.
 
 * [Atlas](https://github.com/ariga/atlas) - modern tool for managing database schemas
 * [DBUI](https://github.com/KenanBek/dbui) - Universal Database CLI for MySQL, PostgreSQL, and SQLite. Terminal User Interface Application
+* [lazysql](https://github.com/jorgerojas26/lazysql) - cross-platform TUI database management tool
 
 ### Documentation
 
