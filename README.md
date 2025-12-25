@@ -554,6 +554,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 * [inquire](https://github.com/mikaelmello/inquire) - interactive terminal prompt for user input
 * [Leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+* [linfa](https://github.com/rust-ml/linfa) - machine learning framework
 * [neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules
 * [regex](https://docs.rs/regex/latest/regex/) - implementation of regular expressions for Rust
 * [reqwest](https://github.com/seanmonstar/reqwest) - HTTP client library, supports async / await, HTTPS, proxies, cookies
@@ -561,6 +562,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [rust_pixel](https://github.com/zipxing/rust_pixel) - Rust 2d game engine, mini-games&app, support terminal, sdl, web modes
 * [ratatui](https://github.com/ratatui/ratatui) - Rust crate for cooking up terminal user interfaces (TUIs)
 * [RustViz](https://github.com/rustviz/rustviz) - Interactively visualizing ownership and borrowing for Rust
+* [salvo](https://github.com/salvo-rs/salvo) - powerful web framework built with a simplified design
 * [serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 * [Tokio](https://github.com/tokio-rs/tokio) - runtime for writing reliable asynchronous applications with Rust
 * [Tonbo](https://github.com/tonbo-io/tonbo) - embedded, persistent key-value database for Rust, using Apache Arrow
