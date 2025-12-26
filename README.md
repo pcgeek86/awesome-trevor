@@ -588,6 +588,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [Dioxus](https://github.com/dioxuslabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more
 * [image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 * [inquire](https://github.com/mikaelmello/inquire) - interactive terminal prompt for user input
+* [ipc-channel](https://github.com/servo/ipc-channel) - multiprocess drop-in replacement for Rust channels
 * [Leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 * [linfa](https://github.com/rust-ml/linfa) - machine learning framework
 * [neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules
