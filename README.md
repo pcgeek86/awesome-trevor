@@ -584,6 +584,7 @@ List of popular Go modules that are useful for building applications in Golang.
 * [axum](https://github.com/tokio-rs/axum) - popular web framework for Rust from the Tokio async folks
 * [chrono](https://github.com/chronotope/chrono) - date and time library for Rust
 * [Cursive](https://github.com/gyscos/cursive) - Text User Interface library for the Rust programming language
+* [cxx-qt](https://github.com/KDAB/cxx-qt) - Safe interop between Rust and Qt
 * [Dioxus](https://github.com/dioxuslabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more
 * [image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 * [inquire](https://github.com/mikaelmello/inquire) - interactive terminal prompt for user input
