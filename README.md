@@ -14,6 +14,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [OpenCode](https://github.com/sst/opencode) - open source coding agent
 * [Toad](https://github.com/batrachianai/toad) - unified interface for AI in your terminal
 * [Vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
+* [vtcode](https://github.com/vinhnx/vtcode) - reseach-preview semantic coding agent in the terminal
 
 ### AI Agents GUI
 
