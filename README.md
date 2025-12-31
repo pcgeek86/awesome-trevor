@@ -37,6 +37,12 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Triton](https://github.com/triton-inference-server/server) - open source inference serving software that streamlines AI inferencing
 * [vLLM](https://github.com/vllm-project/vllm) - high-throughput and memory-efficient inference and serving engine for LLMs
 
+### AI SaaS Services
+
+* [Google NotebookLM](https://notebooklm.google.com/)
+* [Fireworks AI](https://fireworks.ai/)
+* [Baseten](https://www.baseten.co/)
+
 ### Amazon Web Services (AWS)
 
 * [ConsoleMe](https://github.com/Netflix/consoleme) - open source IAM policy management tool from Netflix
