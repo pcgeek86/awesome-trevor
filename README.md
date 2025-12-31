@@ -42,6 +42,9 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Google NotebookLM](https://notebooklm.google.com/)
 * [Fireworks AI](https://fireworks.ai/)
 * [Baseten](https://www.baseten.co/)
+* [Alibaba Qwen](https://qwen.ai/)
+* [MiniMax](https://www.minimax.io/)
+* [Moonshot AI Kimi](https://www.kimi.com/)
 
 ### Amazon Web Services (AWS)
 
