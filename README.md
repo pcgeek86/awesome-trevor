@@ -49,6 +49,7 @@ This repository contains links to things that Trevor thinks are awesome.
 ### AI Open Source
 
 * [Firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+* [langfuse](https://github.com/langfuse/langfuse) - Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets
 
 ### Amazon Web Services (AWS)
 
