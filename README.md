@@ -204,9 +204,9 @@ This repository contains links to things that Trevor thinks are awesome.
 * [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 * [OpenHands](https://github.com/All-Hands-AI/OpenHands) - platform for software development agents powered by AI (formerly OpenDevin)
 * [Claude-Engineer](https://github.com/Doriandarko/claude-engineer) - interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks
-* [aider](https://github.com/Aider-AI/aider) - AI pair programming in your terminal
+* [Pydantic AI](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
 
-### 👓 Computer Vision
+### Computer Vision
 
 * [AutoDistill](https://github.com/autodistill/autodistill) - Images to inference with no labeling
 * [FiftyOne](https://github.com/voxel51/fiftyone) - open-source tool for building high-quality datasets and computer vision models
