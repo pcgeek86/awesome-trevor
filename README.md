@@ -85,6 +85,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [Sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 * [trippy](https://github.com/fujiapple852/trippy) - network diagnostic tool
 * [Viddy](https://github.com/sachaos/viddy) - modern watch command. Time machine and pager etc.\
+* [vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 
 ### Email / SMTP
 
