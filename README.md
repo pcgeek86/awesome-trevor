@@ -39,12 +39,16 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### AI SaaS Services
 
-* [Google NotebookLM](https://notebooklm.google.com/)
-* [Fireworks AI](https://fireworks.ai/)
-* [Baseten](https://www.baseten.co/)
 * [Alibaba Qwen](https://qwen.ai/)
+* [Baseten](https://www.baseten.co/)
+* [Fireworks AI](https://fireworks.ai/)
+* [Google NotebookLM](https://notebooklm.google.com/)
 * [MiniMax](https://www.minimax.io/)
 * [Moonshot AI Kimi](https://www.kimi.com/)
+
+### AI Open Source
+
+* [Firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 
 ### Amazon Web Services (AWS)
 
@@ -201,8 +205,8 @@ This repository contains links to things that Trevor thinks are awesome.
 ### 👓 Computer Vision
 
 * [AutoDistill](https://github.com/autodistill/autodistill) - Images to inference with no labeling
-* [YOLOv8](https://github.com/ultralytics/ultralytics) - Ultralytics computer vision model
 * [FiftyOne](https://github.com/voxel51/fiftyone) - open-source tool for building high-quality datasets and computer vision models
+* [Ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO computer vision model
 
 ### SaaS Tools
 
