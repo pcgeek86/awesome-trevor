@@ -33,6 +33,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [exllamav3](https://github.com/turboderp-org/exllamav3) - optimized quantization and inference library for running LLMs locally on modern consumer-class GPUs
 * [exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices
 * [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+* [LocalAI](https://github.com/mudler/LocalAI) - free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first
 * [mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 * [Triton](https://github.com/triton-inference-server/server) - open source inference serving software that streamlines AI inferencing
 * [vLLM](https://github.com/vllm-project/vllm) - high-throughput and memory-efficient inference and serving engine for LLMs
