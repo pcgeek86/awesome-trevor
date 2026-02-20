@@ -656,6 +656,7 @@ List of popular Go modules that are useful for building applications in Golang.
 ### Mobile (Android, iOS)
 
 * [ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+* [Maestro](https://github.com/mobile-dev-inc/Maestro) - E2E Automation for Mobile and Web
 
 ### Chat Software
 
