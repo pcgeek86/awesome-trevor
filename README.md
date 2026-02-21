@@ -27,6 +27,10 @@ This repository contains links to things that Trevor thinks are awesome.
 * [LM Studio](https://lmstudio.ai/) - Local AI, on Your Computer
 * [Ollama](https://github.com/ollama/ollama)
 
+### MCP Servers
+
+* [Wikipedia MCP](https://github.com/Rudra-ravi/wikipedia-mcp)
+
 ### AI Inference Software
 
 * [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface
@@ -85,6 +89,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [fman](https://github.com/nore-dev/fman) - TUI File Manager
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager
 * [ov](https://github.com/noborus/ov) - an open source data paging tool (similar to less?)
+* [process-compose](https://github.com/F1bonacc1/process-compose) - simple and flexible scheduler and orchestrator to manage non-containerized applications
 * [Sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 * [trippy](https://github.com/fujiapple852/trippy) - network diagnostic tool
 * [Viddy](https://github.com/sachaos/viddy) - modern watch command. Time machine and pager etc.\
