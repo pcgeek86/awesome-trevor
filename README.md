@@ -89,6 +89,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [trippy](https://github.com/fujiapple852/trippy) - network diagnostic tool
 * [Viddy](https://github.com/sachaos/viddy) - modern watch command. Time machine and pager etc.\
 * [vtm](https://github.com/directvt/vtm) - Text-based desktop environment
+* [yazi](https://github.com/sxyazi/yazi) - terminal (TUI) file manager written in Rust
 
 ### Email / SMTP
 
