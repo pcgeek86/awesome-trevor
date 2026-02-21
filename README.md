@@ -159,11 +159,12 @@ This repository contains links to things that Trevor thinks are awesome.
 
 ### Testing Tools 🧪
 
-* [Locust](https://locust.io/) - Write scalable load tests in plain Python 🚗💨
-* [K6](https://github.com/grafana/k6) - modern load testing tool, using Go and JavaScript
-* [Siege](https://github.com/JoeDog/siege) - http load tester and benchmarking utility
 * [Artillery](https://github.com/artilleryio/artillery) - Cloud-scale load testing. Fully serverless, test any stack, test at any scale
 * [Gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
+* [K6](https://github.com/grafana/k6) - modern load testing tool, using Go and JavaScript
+* [Locust](https://locust.io/) - Write scalable load tests in plain Python 🚗💨
+* [Maestro](https://github.com/mobile-dev-inc/maestro) - Painless E2E Automation for Mobile and Web
+* [Siege](https://github.com/JoeDog/siege) - http load tester and benchmarking utility
 
 ### Reverse Proxy
 
