@@ -10,6 +10,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [crush](https://github.com/charmbracelet/crush) - glamourous AI coding agent for your favourite terminal
 * [Forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 * [Gemini](https://github.com/google-gemini/gemini-cli) - open-source AI agent that brings the power of Gemini directly into your terminal.
+* [Letta Code](https://github.com/letta-ai/letta-code) - deeply personalized stateful agent that lives on your local computer
 * [Nanocoder](https://github.com/Nano-Collective/nanocoder) - beautiful local-first coding agent running in your terminal
 * [OpenCode](https://github.com/sst/opencode) - open source coding agent
 * [Toad](https://github.com/batrachianai/toad) - unified interface for AI in your terminal
