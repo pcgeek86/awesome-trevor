@@ -92,6 +92,7 @@ This repository contains links to things that Trevor thinks are awesome.
 * [llmfit](https://github.com/AlexsJones/llmfit) - one command to find what LLM runs on your hardware. 
 * [netwatch](https://github.com/matthart1983/netwatch) - real-time network diagnostics in your terminal — like htop for your network.
 * [ov](https://github.com/noborus/ov) - an open source data paging tool (similar to less?)
+* [oxker](https://github.com/mrjackwills/oxker) - simple tui to view & control docker containers
 * [process-compose](https://github.com/F1bonacc1/process-compose) - simple and flexible scheduler and orchestrator to manage non-containerized applications
 * [Sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 * [trippy](https://github.com/fujiapple852/trippy) - network diagnostic tool
