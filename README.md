@@ -86,6 +86,7 @@ This repository contains links to things that Trevor thinks are awesome.
 ### General Purpose CLI Tools
 
 * [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
+* [ducker](https://github.com/robertpsoane/ducker) - slightly quackers Docker TUI based on k9s
 * [fm](https://github.com/knipferrc/fm) - A terminal based file manager
 * [fman](https://github.com/nore-dev/fman) - TUI File Manager
 * [lf](https://github.com/gokcehan/lf) - Terminal file manager
